@@ -1,0 +1,6 @@
+Covid-19 Migrant Registration Form/ कोविद -19 प्रवासी पंजीकरण फॉर्म
+Name/ नाम
+Aadhar Number(optional)/ आधार संख्या(वैकल्पिक)
+Mobile Number/ मोबाइल नंबर
+Present Full Address/ पूरा पता
+Native Place Address/ देशी स्थान का पता

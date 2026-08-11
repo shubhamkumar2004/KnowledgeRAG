@@ -1,0 +1,18 @@
+Enroll The Students
+Name of the Student*
+Father Name *
+Father's Occupation *
+Mother Name *
+Mother's Occupation *
+Email
+Category
+Select
+SC
+ST
+OBC
+UR
+DOB
+Class *
+Mobile  *
+Name of the School *
+Percentage in previous class *

@@ -1,0 +1,12 @@
+MIP Faculty Registration
+Email ID Confirmation
+Email Address
+Enter OTP
+Name
+Email Address
+Mobile Number
+Address
+Occupation/Service/Batch
+Present Posting
+Subject Specialization
+Date of Availability

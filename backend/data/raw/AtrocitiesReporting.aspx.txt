@@ -1,0 +1,15 @@
+Atrocities Reporting
+Verification
+Reporting
+Verify Your Mobile Number
+Note:
+You need to generate OTP first to proceed with the next process
+Atrocity Reporting
+Name of the Reporter
+Mobile of the Reporter
+Email of the Reporter
+Place of Atrocity
+Any Printed News
+Victims Name
+Victims Mobile Number
+Details of the Atrocity

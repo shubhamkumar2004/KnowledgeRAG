@@ -1,0 +1,12 @@
+Donation
+The online transfer facility through this website is available now.
+Accepted Payment Methods:
+UPI, Credit/Debit Card, Net Banking
+Ekta Navnirman Trust
+Full Name *
+Amount (₹) *
+PAN Number *
+Mobile Number *
+Email Address *
+Address
+Donate Now
