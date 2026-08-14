@@ -2,12 +2,14 @@
     height:100vh;
     display:flex;
     flex-direction:column;
+    background:#0f172a;
 }
 
 .header{
     padding:25px;
     text-align:center;
     border-bottom:1px solid #1e293b;
+    background:#0f172a;
 }
 
 .header h1{
@@ -21,7 +23,27 @@
 .chat-box{
     flex:1;
     overflow-y:auto;
+    scroll-behavior:smooth;
     padding:30px;
+}
+
+/* Nice scrollbar */
+
+.chat-box::-webkit-scrollbar{
+    width:8px;
+}
+
+.chat-box::-webkit-scrollbar-track{
+    background:#0f172a;
+}
+
+.chat-box::-webkit-scrollbar-thumb{
+    background:#334155;
+    border-radius:20px;
+}
+
+.chat-box::-webkit-scrollbar-thumb:hover{
+    background:#475569;
 }
 
 .message{
@@ -43,6 +65,21 @@
     border-radius:14px;
     max-width:700px;
     line-height:1.6;
+
+    /* Preserve line breaks */
+    white-space:pre-wrap;
+
+    /* Break long URLs/words */
+    word-break:break-word;
+
+    /* Slight animation */
+    animation:fadeIn .25s ease;
+}
+
+/* Different color for user */
+
+.message.user .bubble{
+    background:#2563eb;
 }
 
 .chat-input{
@@ -50,6 +87,7 @@
     gap:12px;
     padding:20px;
     border-top:1px solid #1e293b;
+    background:#0f172a;
 }
 
 .chat-input input{
@@ -60,6 +98,17 @@
     background:#1e293b;
     color:white;
     font-size:16px;
+    outline:none;
+    transition:.2s;
+}
+
+.chat-input input:focus{
+    box-shadow:0 0 0 2px #2563eb;
+}
+
+.chat-input input:disabled{
+    opacity:.65;
+    cursor:not-allowed;
 }
 
 .chat-input button{
@@ -70,8 +119,28 @@
     color:white;
     cursor:pointer;
     font-size:16px;
+    transition:.2s;
 }
 
-.chat-input button:hover{
+.chat-input button:hover:not(:disabled){
     background:#1d4ed8;
+}
+
+.chat-input button:disabled{
+    opacity:.6;
+    cursor:not-allowed;
+}
+
+@keyframes fadeIn{
+
+    from{
+        opacity:0;
+        transform:translateY(10px);
+    }
+
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+
 }
