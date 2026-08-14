@@ -1,0 +1,2214 @@
+
+
+====================================================================================================
+SECTION : ABOUT EKTA TRUST
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 1
+----------------------------------------------------------------------------------------------------
+What is the vision of Ekta Trust?
+
+Conversation History
+[]
+
+Original Question:
+What is the vision of Ekta Trust?
+
+Rewritten Question:
+What is the vision of Ekta Trust?
+Loading retrieval system...
+Retrieval system ready.
+
+Retrieval time: 7.61 seconds
+LLM generation time: 1.55 seconds
+
+ANSWER:
+Vision
+Create a Casteless and Atrocity free society where people can live with
+dignity and self respect and contribute in nation building
+
+SOURCES:
+Vision.txt, TermsAndCondition.aspx.txt, Premable.txt
+
+TIME: 9.16 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 2
+----------------------------------------------------------------------------------------------------
+What is the motto of Ekta Trust?
+
+Conversation History
+[{'role': 'user', 'content': 'What is the vision of Ekta Trust?'}, {'role': 'assistant', 'content': 'Vision\nCreate a Casteless and Atrocity free society where people can live with\ndignity and self respect and contribute in nation building'}]
+
+Original Question:
+What is the motto of Ekta Trust?
+
+Rewritten Question:
+Motto of Ekta Trust
+
+Retrieval time: 0.14 seconds
+LLM generation time: 0.60 seconds
+
+ANSWER:
+Building discrimination free India.
+
+SOURCES:
+Motto.txt, Premable.txt, TermsAndCondition.aspx.txt, EktaCreativeCompetition2025.aspx.txt
+
+TIME: 1.27 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 3
+----------------------------------------------------------------------------------------------------
+What are the objectives of Ekta Trust?
+
+Conversation History
+[{'role': 'user', 'content': 'What is the vision of Ekta Trust?'}, {'role': 'assistant', 'content': 'Vision\nCreate a Casteless and Atrocity free society where people can live with\ndignity and self respect and contribute in nation building'}, {'role': 'user', 'content': 'What is the motto of Ekta Trust?'}, {'role': 'assistant', 'content': 'Building discrimination free India.'}]
+
+Original Question:
+What are the objectives of Ekta Trust?
+
+Rewritten Question:
+Objectives of Ekta Trust
+
+Retrieval time: 0.14 seconds
+LLM generation time: 3.09 seconds
+
+ANSWER:
+The objectives of Ekta Trust include:
+
+1. Diffusion of useful knowledge, skill training, and promoting self-entrepreneurships among weaker and deprived sections of society.
+2. To institute studentships, scholarships, stipends, medals, prizes, etc., to help and encourage deserving students, scholars, and teachers for pursuing their education.
+3. Providing grants, scholarships, fellowships, and other forms of financial assistance to the deserving students, vocational training, skill development, etc.
+
+SOURCES:
+Objectives.txt, TermsAndCondition.aspx.txt, Premable.txt
+
+TIME: 3.74 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 4
+----------------------------------------------------------------------------------------------------
+What kind of society does Ekta Trust want to create?
+
+Conversation History
+[{'role': 'user', 'content': 'What is the vision of Ekta Trust?'}, {'role': 'assistant', 'content': 'Vision\nCreate a Casteless and Atrocity free society where people can live with\ndignity and self respect and contribute in nation building'}, {'role': 'user', 'content': 'What is the motto of Ekta Trust?'}, {'role': 'assistant', 'content': 'Building discrimination free India.'}, {'role': 'user', 'content': 'What are the objectives of Ekta Trust?'}, {'role': 'assistant', 'content': 'The objectives of Ekta Trust include:\n\n1. Diffusion of useful knowledge, skill training, and promoting self-entrepreneurships among weaker and deprived sections of society.\n2. To institute studentships, scholarships, stipends, medals, prizes, etc., to help and encourage deserving students, scholars, and teachers for pursuing their education.\n3. Providing grants, scholarships, fellowships, and other forms of financial assistance to the deserving students, vocational training, skill development, etc.'}]
+
+Original Question:
+What kind of society does Ekta Trust want to create?
+
+Rewritten Question:
+What kind of society does Ekta Trust aim to create?
+
+Retrieval time: 0.17 seconds
+LLM generation time: 2.84 seconds
+
+ANSWER:
+Ekta Trust wants to create a society where people can live with dignity and self-respect, and contribute to nation-building. They aim to achieve this by promoting the fraternity and making it a civilized society where no human rights violation based on caste, religion, sex, or any other grounds can take place. The trust is committed to helping the weaker and deprived sections of society through all means so that they can live respectable lives and contribute to the development of the nation.
+
+SOURCES:
+Premable.txt, Objectives.txt, TermsAndCondition.aspx.txt, home.txt
+
+TIME: 3.94 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 5
+----------------------------------------------------------------------------------------------------
+Who founded Ekta Trust?
+
+Conversation History
+[{'role': 'user', 'content': 'What is the motto of Ekta Trust?'}, {'role': 'assistant', 'content': 'Building discrimination free India.'}, {'role': 'user', 'content': 'What are the objectives of Ekta Trust?'}, {'role': 'assistant', 'content': 'The objectives of Ekta Trust include:\n\n1. Diffusion of useful knowledge, skill training, and promoting self-entrepreneurships among weaker and deprived sections of society.\n2. To institute studentships, scholarships, stipends, medals, prizes, etc., to help and encourage deserving students, scholars, and teachers for pursuing their education.\n3. Providing grants, scholarships, fellowships, and other forms of financial assistance to the deserving students, vocational training, skill development, etc.'}, {'role': 'user', 'content': 'What kind of society does Ekta Trust want to create?'}, {'role': 'assistant', 'content': 'Ekta Trust wants to create a society where people can live with dignity and self-respect, and contribute to nation-building. They aim to achieve this by promoting the fraternity and making it a civilized society where no human rights violation based on caste, religion, sex, or any other grounds can take place. The trust is committed to helping the weaker and deprived sections of society through all means so that they can live respectable lives and contribute to the development of the nation.'}]
+
+Original Question:
+Who founded Ekta Trust?
+
+Rewritten Question:
+Who founded Ekta Trust?
+
+Retrieval time: 0.18 seconds
+LLM generation time: 4.10 seconds
+
+ANSWER:
+The information provided does not specify who founded the Ekta Trust.
+
+SOURCES:
+TermsAndCondition.aspx.txt, Premable.txt, Objectives.txt, Information.aspx.txt
+
+TIME: 4.94 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 6
+----------------------------------------------------------------------------------------------------
+When was Ekta Trust established?
+
+Conversation History
+[{'role': 'user', 'content': 'What are the objectives of Ekta Trust?'}, {'role': 'assistant', 'content': 'The objectives of Ekta Trust include:\n\n1. Diffusion of useful knowledge, skill training, and promoting self-entrepreneurships among weaker and deprived sections of society.\n2. To institute studentships, scholarships, stipends, medals, prizes, etc., to help and encourage deserving students, scholars, and teachers for pursuing their education.\n3. Providing grants, scholarships, fellowships, and other forms of financial assistance to the deserving students, vocational training, skill development, etc.'}, {'role': 'user', 'content': 'What kind of society does Ekta Trust want to create?'}, {'role': 'assistant', 'content': 'Ekta Trust wants to create a society where people can live with dignity and self-respect, and contribute to nation-building. They aim to achieve this by promoting the fraternity and making it a civilized society where no human rights violation based on caste, religion, sex, or any other grounds can take place. The trust is committed to helping the weaker and deprived sections of society through all means so that they can live respectable lives and contribute to the development of the nation.'}, {'role': 'user', 'content': 'Who founded Ekta Trust?'}, {'role': 'assistant', 'content': 'The information provided does not specify who founded the Ekta Trust.'}]
+
+Original Question:
+When was Ekta Trust established?
+
+Rewritten Question:
+When was Ekta Trust established?
+
+Retrieval time: 0.43 seconds
+LLM generation time: 4.99 seconds
+
+ANSWER:
+The information provided does not specify when Ekta Trust was established.
+
+SOURCES:
+TermsAndCondition.aspx.txt, Premable.txt
+
+TIME: 6.23 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 7
+----------------------------------------------------------------------------------------------------
+How can I contact Ekta Trust?
+
+Conversation History
+[{'role': 'user', 'content': 'What kind of society does Ekta Trust want to create?'}, {'role': 'assistant', 'content': 'Ekta Trust wants to create a society where people can live with dignity and self-respect, and contribute to nation-building. They aim to achieve this by promoting the fraternity and making it a civilized society where no human rights violation based on caste, religion, sex, or any other grounds can take place. The trust is committed to helping the weaker and deprived sections of society through all means so that they can live respectable lives and contribute to the development of the nation.'}, {'role': 'user', 'content': 'Who founded Ekta Trust?'}, {'role': 'assistant', 'content': 'The information provided does not specify who founded the Ekta Trust.'}, {'role': 'user', 'content': 'When was Ekta Trust established?'}, {'role': 'assistant', 'content': 'The information provided does not specify when Ekta Trust was established.'}]
+
+Original Question:
+How can I contact Ekta Trust?
+
+Rewritten Question:
+What is the contact information for Ekta Trust?
+
+Retrieval time: 0.44 seconds
+LLM generation time: 7.35 seconds
+
+ANSWER:
+You can contact Ekta Navnirman Trust through the following methods:
+
+1. Email: ektanavnirmantrust@gmail.com
+2. Mobile Number: +91-7877664078
+3. Website Contact Form
+
+For more specific inquiries, you may also reach out to individual trustees as provided in the Ekta Team section of their website or through their respective email addresses.
+
+SOURCES:
+Contact.txt, TermsAndCondition.aspx.txt
+
+TIME: 8.83 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 8
+----------------------------------------------------------------------------------------------------
+Where is Ekta Trust located?
+
+Conversation History
+[{'role': 'user', 'content': 'Who founded Ekta Trust?'}, {'role': 'assistant', 'content': 'The information provided does not specify who founded the Ekta Trust.'}, {'role': 'user', 'content': 'When was Ekta Trust established?'}, {'role': 'assistant', 'content': 'The information provided does not specify when Ekta Trust was established.'}, {'role': 'user', 'content': 'How can I contact Ekta Trust?'}, {'role': 'assistant', 'content': 'You can contact Ekta Navnirman Trust through the following methods:\n\n1. Email: ektanavnirmantrust@gmail.com\n2. Mobile Number: +91-7877664078\n3. Website Contact Form\n\nFor more specific inquiries, you may also reach out to individual trustees as provided in the Ekta Team section of their website or through their respective email addresses.'}]
+
+Original Question:
+Where is Ekta Trust located?
+
+Rewritten Question:
+Where is Ekta Trust located?
+
+Retrieval time: 0.75 seconds
+LLM generation time: 4.76 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+TermsAndCondition.aspx.txt, Donation.txt, Information.aspx.txt
+
+TIME: 6.47 sec
+
+
+====================================================================================================
+SECTION : JOIN / VOLUNTEER
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 9
+----------------------------------------------------------------------------------------------------
+How can I join Ekta Trust?
+
+Conversation History
+[]
+
+Original Question:
+How can I join Ekta Trust?
+
+Rewritten Question:
+How can I join Ekta Trust?
+
+Retrieval time: 0.53 seconds
+LLM generation time: 3.83 seconds
+
+ANSWER:
+To join Ekta Navnirman Trust, you need to submit your details through the donation process available on their website. The required information includes your full name, amount (in Indian Rupees), PAN number, mobile number, and email address. You can also provide your address if needed. Please visit www.ektatrust.org.in for more details.
+
+Additionally, you can contact Ekta Team via WhatsApp at +91 78776 64078 or Email at ekta.rpsc.mip@gmail.com for any queries related to joining the trust.
+
+SOURCES:
+TermsAndCondition.aspx.txt, MIPTeam.aspx_RPSC.txt, Donation.txt, EktaCreativeCompetition2025.aspx.txt
+
+TIME: 4.36 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 10
+----------------------------------------------------------------------------------------------------
+How can I volunteer with Ekta Trust?
+
+Conversation History
+[{'role': 'user', 'content': 'How can I join Ekta Trust?'}, {'role': 'assistant', 'content': 'To join Ekta Navnirman Trust, you need to submit your details through the donation process available on their website. The required information includes your full name, amount (in Indian Rupees), PAN number, mobile number, and email address. You can also provide your address if needed. Please visit www.ektatrust.org.in for more details.\n\nAdditionally, you can contact Ekta Team via WhatsApp at +91 78776 64078 or Email at ekta.rpsc.mip@gmail.com for any queries related to joining the trust.'}]
+
+Original Question:
+How can I volunteer with Ekta Trust?
+
+Rewritten Question:
+How do I volunteer with Ekta Trust?
+
+Retrieval time: 0.33 seconds
+LLM generation time: 4.64 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+TermsAndCondition.aspx.txt, EventPrize.txt, Premable.txt
+
+TIME: 5.74 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 11
+----------------------------------------------------------------------------------------------------
+What information is required for joining?
+
+Conversation History
+[{'role': 'user', 'content': 'How can I join Ekta Trust?'}, {'role': 'assistant', 'content': 'To join Ekta Navnirman Trust, you need to submit your details through the donation process available on their website. The required information includes your full name, amount (in Indian Rupees), PAN number, mobile number, and email address. You can also provide your address if needed. Please visit www.ektatrust.org.in for more details.\n\nAdditionally, you can contact Ekta Team via WhatsApp at +91 78776 64078 or Email at ekta.rpsc.mip@gmail.com for any queries related to joining the trust.'}, {'role': 'user', 'content': 'How can I volunteer with Ekta Trust?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}]
+
+Original Question:
+What information is required for joining?
+
+Rewritten Question:
+What information is required to join Ekta Trust?
+
+Retrieval time: 0.49 seconds
+LLM generation time: 5.16 seconds
+
+ANSWER:
+The information required for joining Ekta Navnirman Trust includes your full name, amount (in Indian Rupees), PAN number, mobile number, and email address. You can also provide your address if needed. Please visit www.ektatrust.org.in for more details.
+
+SOURCES:
+TermsAndCondition.aspx.txt
+
+TIME: 6.34 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 12
+----------------------------------------------------------------------------------------------------
+Is there any registration process?
+
+Conversation History
+[{'role': 'user', 'content': 'How can I join Ekta Trust?'}, {'role': 'assistant', 'content': 'To join Ekta Navnirman Trust, you need to submit your details through the donation process available on their website. The required information includes your full name, amount (in Indian Rupees), PAN number, mobile number, and email address. You can also provide your address if needed. Please visit www.ektatrust.org.in for more details.\n\nAdditionally, you can contact Ekta Team via WhatsApp at +91 78776 64078 or Email at ekta.rpsc.mip@gmail.com for any queries related to joining the trust.'}, {'role': 'user', 'content': 'How can I volunteer with Ekta Trust?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}, {'role': 'user', 'content': 'What information is required for joining?'}, {'role': 'assistant', 'content': 'The information required for joining Ekta Navnirman Trust includes your full name, amount (in Indian Rupees), PAN number, mobile number, and email address. You can also provide your address if needed. Please visit www.ektatrust.org.in for more details.'}]
+
+Original Question:
+Is there any registration process?
+
+Rewritten Question:
+What is the registration process to join Ekta Trust?
+
+Retrieval time: 0.41 seconds
+LLM generation time: 4.91 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+TermsAndCondition.aspx.txt, EventPrize.txt
+
+TIME: 6.10 sec
+
+
+====================================================================================================
+SECTION : DONATIONS
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 13
+----------------------------------------------------------------------------------------------------
+How can I donate?
+
+Conversation History
+[]
+
+Original Question:
+How can I donate?
+
+Rewritten Question:
+How can I donate?
+
+Retrieval time: 0.15 seconds
+LLM generation time: 3.66 seconds
+
+ANSWER:
+To make a donation through this website, you need to follow these steps:
+
+1. **Full Name**: Enter your full name.
+2. **Amount (₹)**: Specify the amount you wish to donate.
+3. **PAN Number**: Provide your Permanent Account Number.
+4. **Mobile Number**: Enter your mobile number for verification and updates.
+5. **Email Address**: Share your email address for communication and receipt of donation details.
+6. **Address**: Fill in your residential or permanent address.
+
+Once you have filled out all the required fields, click on "Donate Now" to complete the transaction.
+
+SOURCES:
+Objectives.txt, Donation.txt, TermsAndCondition.aspx.txt
+
+TIME: 3.81 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 14
+----------------------------------------------------------------------------------------------------
+Is my donation tax exempt?
+
+Conversation History
+[{'role': 'user', 'content': 'How can I donate?'}, {'role': 'assistant', 'content': 'To make a donation through this website, you need to follow these steps:\n\n1. **Full Name**: Enter your full name.\n2. **Amount (₹)**: Specify the amount you wish to donate.\n3. **PAN Number**: Provide your Permanent Account Number.\n4. **Mobile Number**: Enter your mobile number for verification and updates.\n5. **Email Address**: Share your email address for communication and receipt of donation details.\n6. **Address**: Fill in your residential or permanent address.\n\nOnce you have filled out all the required fields, click on "Donate Now" to complete the transaction.'}]
+
+Original Question:
+Is my donation tax exempt?
+
+Rewritten Question:
+How is my donation treated for tax purposes?
+
+Retrieval time: 0.51 seconds
+LLM generation time: 5.23 seconds
+
+ANSWER:
+Donations made to Ekta Navnirman Trust may be eligible for tax benefits under Section 80G of the Income Tax Act, 1961 (if applicable). Please refer to the Terms and Conditions for more details.
+
+SOURCES:
+TermsAndCondition.aspx.txt, Donation.txt, Insurance.aspx.txt, Objectives.txt
+
+TIME: 6.73 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 15
+----------------------------------------------------------------------------------------------------
+Does Ekta Trust have 80G registration?
+
+Conversation History
+[{'role': 'user', 'content': 'How can I donate?'}, {'role': 'assistant', 'content': 'To make a donation through this website, you need to follow these steps:\n\n1. **Full Name**: Enter your full name.\n2. **Amount (₹)**: Specify the amount you wish to donate.\n3. **PAN Number**: Provide your Permanent Account Number.\n4. **Mobile Number**: Enter your mobile number for verification and updates.\n5. **Email Address**: Share your email address for communication and receipt of donation details.\n6. **Address**: Fill in your residential or permanent address.\n\nOnce you have filled out all the required fields, click on "Donate Now" to complete the transaction.'}, {'role': 'user', 'content': 'Is my donation tax exempt?'}, {'role': 'assistant', 'content': 'Donations made to Ekta Navnirman Trust may be eligible for tax benefits under Section 80G of the Income Tax Act, 1961 (if applicable). Please refer to the Terms and Conditions for more details.'}]
+
+Original Question:
+Does Ekta Trust have 80G registration?
+
+Rewritten Question:
+Is Ekta Navnirman Trust registered for Section 80G tax exemption?
+
+Retrieval time: 0.28 seconds
+LLM generation time: 4.85 seconds
+
+ANSWER:
+Donations made to Ekta Navnirman Trust may be eligible for tax benefits under Section 80G of the Income Tax Act, 1961 (if applicable). Please refer to the Terms and Conditions for more details.
+
+SOURCES:
+TermsAndCondition.aspx.txt, Premable.txt, EventPrize.txt
+
+TIME: 6.07 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 16
+----------------------------------------------------------------------------------------------------
+Does Ekta Trust have 12A registration?
+
+Conversation History
+[{'role': 'user', 'content': 'How can I donate?'}, {'role': 'assistant', 'content': 'To make a donation through this website, you need to follow these steps:\n\n1. **Full Name**: Enter your full name.\n2. **Amount (₹)**: Specify the amount you wish to donate.\n3. **PAN Number**: Provide your Permanent Account Number.\n4. **Mobile Number**: Enter your mobile number for verification and updates.\n5. **Email Address**: Share your email address for communication and receipt of donation details.\n6. **Address**: Fill in your residential or permanent address.\n\nOnce you have filled out all the required fields, click on "Donate Now" to complete the transaction.'}, {'role': 'user', 'content': 'Is my donation tax exempt?'}, {'role': 'assistant', 'content': 'Donations made to Ekta Navnirman Trust may be eligible for tax benefits under Section 80G of the Income Tax Act, 1961 (if applicable). Please refer to the Terms and Conditions for more details.'}, {'role': 'user', 'content': 'Does Ekta Trust have 80G registration?'}, {'role': 'assistant', 'content': 'Donations made to Ekta Navnirman Trust may be eligible for tax benefits under Section 80G of the Income Tax Act, 1961 (if applicable). Please refer to the Terms and Conditions for more details.'}]
+
+Original Question:
+Does Ekta Trust have 12A registration?
+
+Rewritten Question:
+Does Ekta Trust have a 12A registration?
+
+Retrieval time: 0.38 seconds
+LLM generation time: 4.25 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+TermsAndCondition.aspx.txt, EventPrize.txt
+
+TIME: 5.41 sec
+
+
+====================================================================================================
+SECTION : TRAINING
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 17
+----------------------------------------------------------------------------------------------------
+What training programs are available?
+
+Conversation History
+[]
+
+Original Question:
+What training programs are available?
+
+Rewritten Question:
+What training programs are available?
+
+Retrieval time: 0.72 seconds
+LLM generation time: 3.49 seconds
+
+ANSWER:
+The Ekta Navnirman Trust offers a variety of training programs. These include:
+
+- Tailoring
+- Driving
+- Cooking
+- Yoga Training
+- Dairying
+
+Additionally, the trust provides computer training up to 2003 in Government High schools/H.S. schools with a goal of making computer/Internet access available to all such educational institutions. The scheme also involves providing computer education without any government investment by associating private sector investors and using space in schools after teaching time for commercial purposes.
+
+SOURCES:
+Training.txt, Objectives.txt, Education.aspx.txt
+
+TIME: 4.21 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 18
+----------------------------------------------------------------------------------------------------
+Is tailoring training available?
+
+Conversation History
+[{'role': 'user', 'content': 'What training programs are available?'}, {'role': 'assistant', 'content': 'The Ekta Navnirman Trust offers a variety of training programs. These include:\n\n- Tailoring\n- Driving\n- Cooking\n- Yoga Training\n- Dairying\n\nAdditionally, the trust provides computer training up to 2003 in Government High schools/H.S. schools with a goal of making computer/Internet access available to all such educational institutions. The scheme also involves providing computer education without any government investment by associating private sector investors and using space in schools after teaching time for commercial purposes.'}]
+
+Original Question:
+Is tailoring training available?
+
+Rewritten Question:
+Is tailoring training offered by the Ekta Navnirman Trust?
+
+Retrieval time: 0.59 seconds
+LLM generation time: 4.39 seconds
+
+ANSWER:
+The Ekta Navnirman Trust offers a Tailoring training program.
+
+SOURCES:
+Training.txt, TermsAndCondition.aspx.txt, Insurance.aspx.txt, Education.aspx.txt
+
+TIME: 6.30 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 19
+----------------------------------------------------------------------------------------------------
+Is driving training available?
+
+Conversation History
+[{'role': 'user', 'content': 'What training programs are available?'}, {'role': 'assistant', 'content': 'The Ekta Navnirman Trust offers a variety of training programs. These include:\n\n- Tailoring\n- Driving\n- Cooking\n- Yoga Training\n- Dairying\n\nAdditionally, the trust provides computer training up to 2003 in Government High schools/H.S. schools with a goal of making computer/Internet access available to all such educational institutions. The scheme also involves providing computer education without any government investment by associating private sector investors and using space in schools after teaching time for commercial purposes.'}, {'role': 'user', 'content': 'Is tailoring training available?'}, {'role': 'assistant', 'content': 'The Ekta Navnirman Trust offers a Tailoring training program.'}]
+
+Original Question:
+Is driving training available?
+
+Rewritten Question:
+Is driving training available at the Ekta Navnirman Trust?
+
+Retrieval time: 0.32 seconds
+LLM generation time: 3.36 seconds
+
+ANSWER:
+The Ekta Navnirman Trust offers a Driving training program.
+
+SOURCES:
+Training.txt, TermsAndCondition.aspx.txt, Information.aspx.txt
+
+TIME: 4.41 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 20
+----------------------------------------------------------------------------------------------------
+Is cooking training available?
+
+Conversation History
+[{'role': 'user', 'content': 'What training programs are available?'}, {'role': 'assistant', 'content': 'The Ekta Navnirman Trust offers a variety of training programs. These include:\n\n- Tailoring\n- Driving\n- Cooking\n- Yoga Training\n- Dairying\n\nAdditionally, the trust provides computer training up to 2003 in Government High schools/H.S. schools with a goal of making computer/Internet access available to all such educational institutions. The scheme also involves providing computer education without any government investment by associating private sector investors and using space in schools after teaching time for commercial purposes.'}, {'role': 'user', 'content': 'Is tailoring training available?'}, {'role': 'assistant', 'content': 'The Ekta Navnirman Trust offers a Tailoring training program.'}, {'role': 'user', 'content': 'Is driving training available?'}, {'role': 'assistant', 'content': 'The Ekta Navnirman Trust offers a Driving training program.'}]
+
+Original Question:
+Is cooking training available?
+
+Rewritten Question:
+Is cooking training available at the Ekta Navnirman Trust?
+
+Retrieval time: 0.19 seconds
+LLM generation time: 3.08 seconds
+
+ANSWER:
+The Ekta Navnirman Trust offers a Cooking training program.
+
+SOURCES:
+Training.txt, TermsAndCondition.aspx.txt, Donation.txt
+
+TIME: 4.00 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 21
+----------------------------------------------------------------------------------------------------
+Is yoga training available?
+
+Conversation History
+[{'role': 'user', 'content': 'Is tailoring training available?'}, {'role': 'assistant', 'content': 'The Ekta Navnirman Trust offers a Tailoring training program.'}, {'role': 'user', 'content': 'Is driving training available?'}, {'role': 'assistant', 'content': 'The Ekta Navnirman Trust offers a Driving training program.'}, {'role': 'user', 'content': 'Is cooking training available?'}, {'role': 'assistant', 'content': 'The Ekta Navnirman Trust offers a Cooking training program.'}]
+
+Original Question:
+Is yoga training available?
+
+Rewritten Question:
+The Ekta Navnirman Trust offers a Yoga training program.
+
+Retrieval time: 0.22 seconds
+LLM generation time: 0.96 seconds
+
+ANSWER:
+The Ekta Navnirman Trust offers a Yoga Training program.
+
+SOURCES:
+Training.txt, TermsAndCondition.aspx.txt, Objectives.txt, Girl%20Schemes.txt
+
+TIME: 1.99 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 22
+----------------------------------------------------------------------------------------------------
+Is dairy training available?
+
+Conversation History
+[{'role': 'user', 'content': 'Is driving training available?'}, {'role': 'assistant', 'content': 'The Ekta Navnirman Trust offers a Driving training program.'}, {'role': 'user', 'content': 'Is cooking training available?'}, {'role': 'assistant', 'content': 'The Ekta Navnirman Trust offers a Cooking training program.'}, {'role': 'user', 'content': 'Is yoga training available?'}, {'role': 'assistant', 'content': 'The Ekta Navnirman Trust offers a Yoga Training program.'}]
+
+Original Question:
+Is dairy training available?
+
+Rewritten Question:
+The Ekta Navnirman Trust offers a Dairy Training program.
+
+Retrieval time: 0.16 seconds
+LLM generation time: 1.25 seconds
+
+ANSWER:
+The Ekta Navnirman Trust offers a Yoga Training program. There is no mention of a Dairy Training program in the provided context.
+
+SOURCES:
+Training.txt, TermsAndCondition.aspx.txt
+
+TIME: 2.21 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 23
+----------------------------------------------------------------------------------------------------
+Is there any stipend for trainees?
+
+Conversation History
+[{'role': 'user', 'content': 'Is cooking training available?'}, {'role': 'assistant', 'content': 'The Ekta Navnirman Trust offers a Cooking training program.'}, {'role': 'user', 'content': 'Is yoga training available?'}, {'role': 'assistant', 'content': 'The Ekta Navnirman Trust offers a Yoga Training program.'}, {'role': 'user', 'content': 'Is dairy training available?'}, {'role': 'assistant', 'content': 'The Ekta Navnirman Trust offers a Yoga Training program. There is no mention of a Dairy Training program in the provided context.'}]
+
+Original Question:
+Is there any stipend for trainees?
+
+Rewritten Question:
+Is there any stipend offered to trainees at The Ekta Navnirman Trust?
+
+Retrieval time: 0.30 seconds
+LLM generation time: 0.88 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+TermsAndCondition.aspx.txt
+
+TIME: 2.29 sec
+
+
+====================================================================================================
+SECTION : EDUCATION LOAN
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 24
+----------------------------------------------------------------------------------------------------
+Tell me about the Education Loan Scheme.
+
+Conversation History
+[]
+
+Original Question:
+Tell me about the Education Loan Scheme.
+
+Rewritten Question:
+Tell me about the Education Loan Scheme.
+
+Retrieval time: 0.08 seconds
+LLM generation time: 6.15 seconds
+
+ANSWER:
+The Education Loan Scheme is available for courses such as studies in India and studies abroad. For studies in India, the quantum of loan is up to Rs.10 lacs, while for studies abroad it is up to Rs.20 lacs. The scheme does not require any collateral security; however, a maximum security limit is set at Rs.7.5 lacs. The margin required depends on whether the loan amount is up to or above Rs.4 lacs: if up to Rs.4 lacs, it is 5%, and above Rs.4 lacs, it increases to 15%. The rate of interest also varies; for amounts up to Rs.4 lacs, it is Prime Lending Rate (PLR), and for amounts above Rs.4 lacs, it is PLR plus 1%. Interest is debited quarterly or half-yearly during the repayment holiday period, with a penal interest rate of 2% applied otherwise.
+
+SOURCES:
+Loans.aspx.txt, Education.aspx.txt
+
+TIME: 6.23 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 25
+----------------------------------------------------------------------------------------------------
+What is the maximum amount?
+
+Conversation History
+[{'role': 'user', 'content': 'Tell me about the Education Loan Scheme.'}, {'role': 'assistant', 'content': 'The Education Loan Scheme is available for courses such as studies in India and studies abroad. For studies in India, the quantum of loan is up to Rs.10 lacs, while for studies abroad it is up to Rs.20 lacs. The scheme does not require any collateral security; however, a maximum security limit is set at Rs.7.5 lacs. The margin required depends on whether the loan amount is up to or above Rs.4 lacs: if up to Rs.4 lacs, it is 5%, and above Rs.4 lacs, it increases to 15%. The rate of interest also varies; for amounts up to Rs.4 lacs, it is Prime Lending Rate (PLR), and for amounts above Rs.4 lacs, it is PLR plus 1%. Interest is debited quarterly or half-yearly during the repayment holiday period, with a penal interest rate of 2% applied otherwise.'}]
+
+Original Question:
+What is the maximum amount?
+
+Rewritten Question:
+What is the maximum loan quantum available under the Education Loan Scheme?
+
+Retrieval time: 0.39 seconds
+LLM generation time: 13.35 seconds
+
+ANSWER:
+The maximum amount for the Education Loan Scheme varies based on whether the loan amount is up to or above Rs.4 lacs:
+
+- For amounts up to Rs.4 lacs, the margin required is 5%.
+- For amounts above Rs.4 lacs, the margin increases to 15%.
+
+Additionally, the maximum quantum of loan for this scheme is up to Rs.20 lacs for studies abroad and up to Rs.10 lacs for studies in India.
+
+So, depending on the amount applied for within these limits, the maximum amount could be either Rs.20 lacs (for studies abroad) or Rs.10 lacs (for studies in India).
+
+SOURCES:
+Loans.aspx.txt
+
+TIME: 14.88 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 26
+----------------------------------------------------------------------------------------------------
+Is collateral required?
+
+Conversation History
+[{'role': 'user', 'content': 'Tell me about the Education Loan Scheme.'}, {'role': 'assistant', 'content': 'The Education Loan Scheme is available for courses such as studies in India and studies abroad. For studies in India, the quantum of loan is up to Rs.10 lacs, while for studies abroad it is up to Rs.20 lacs. The scheme does not require any collateral security; however, a maximum security limit is set at Rs.7.5 lacs. The margin required depends on whether the loan amount is up to or above Rs.4 lacs: if up to Rs.4 lacs, it is 5%, and above Rs.4 lacs, it increases to 15%. The rate of interest also varies; for amounts up to Rs.4 lacs, it is Prime Lending Rate (PLR), and for amounts above Rs.4 lacs, it is PLR plus 1%. Interest is debited quarterly or half-yearly during the repayment holiday period, with a penal interest rate of 2% applied otherwise.'}, {'role': 'user', 'content': 'What is the maximum amount?'}, {'role': 'assistant', 'content': 'The maximum amount for the Education Loan Scheme varies based on whether the loan amount is up to or above Rs.4 lacs:\n\n- For amounts up to Rs.4 lacs, the margin required is 5%.\n- For amounts above Rs.4 lacs, the margin increases to 15%.\n\nAdditionally, the maximum quantum of loan for this scheme is up to Rs.20 lacs for studies abroad and up to Rs.10 lacs for studies in India.\n\nSo, depending on the amount applied for within these limits, the maximum amount could be either Rs.20 lacs (for studies abroad) or Rs.10 lacs (for studies in India).'}]
+
+Original Question:
+Is collateral required?
+
+Rewritten Question:
+What is the requirement regarding collateral for the Education Loan Scheme?
+
+Retrieval time: 0.41 seconds
+LLM generation time: 9.31 seconds
+
+ANSWER:
+No collateral security is required for the Education Loan Scheme, with a maximum security limit set at Rs.7.5 lacs.
+
+SOURCES:
+Loans.aspx.txt, Education.aspx.txt
+
+TIME: 11.18 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 27
+----------------------------------------------------------------------------------------------------
+What is the interest rate?
+
+Conversation History
+[{'role': 'user', 'content': 'Tell me about the Education Loan Scheme.'}, {'role': 'assistant', 'content': 'The Education Loan Scheme is available for courses such as studies in India and studies abroad. For studies in India, the quantum of loan is up to Rs.10 lacs, while for studies abroad it is up to Rs.20 lacs. The scheme does not require any collateral security; however, a maximum security limit is set at Rs.7.5 lacs. The margin required depends on whether the loan amount is up to or above Rs.4 lacs: if up to Rs.4 lacs, it is 5%, and above Rs.4 lacs, it increases to 15%. The rate of interest also varies; for amounts up to Rs.4 lacs, it is Prime Lending Rate (PLR), and for amounts above Rs.4 lacs, it is PLR plus 1%. Interest is debited quarterly or half-yearly during the repayment holiday period, with a penal interest rate of 2% applied otherwise.'}, {'role': 'user', 'content': 'What is the maximum amount?'}, {'role': 'assistant', 'content': 'The maximum amount for the Education Loan Scheme varies based on whether the loan amount is up to or above Rs.4 lacs:\n\n- For amounts up to Rs.4 lacs, the margin required is 5%.\n- For amounts above Rs.4 lacs, the margin increases to 15%.\n\nAdditionally, the maximum quantum of loan for this scheme is up to Rs.20 lacs for studies abroad and up to Rs.10 lacs for studies in India.\n\nSo, depending on the amount applied for within these limits, the maximum amount could be either Rs.20 lacs (for studies abroad) or Rs.10 lacs (for studies in India).'}, {'role': 'user', 'content': 'Is collateral required?'}, {'role': 'assistant', 'content': 'No collateral security is required for the Education Loan Scheme, with a maximum security limit set at Rs.7.5 lacs.'}]
+
+Original Question:
+What is the interest rate?
+
+Rewritten Question:
+What is the interest rate for the Education Loan Scheme?
+
+Retrieval time: 0.70 seconds
+LLM generation time: 10.41 seconds
+
+ANSWER:
+The interest rate for the Education Loan Scheme varies based on whether the loan amount is up to or above Rs.4 lacs:
+
+- For amounts up to Rs.4 lacs, the rate of interest is Prime Lending Rate (PLR).
+- For amounts above Rs.4 lacs, the rate increases to PLR plus 1%.
+
+SOURCES:
+Loans.aspx.txt, Girl%20Schemes.txt, Insurance.aspx.txt
+
+TIME: 12.11 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 28
+----------------------------------------------------------------------------------------------------
+Who is eligible?
+
+Conversation History
+[{'role': 'user', 'content': 'What is the maximum amount?'}, {'role': 'assistant', 'content': 'The maximum amount for the Education Loan Scheme varies based on whether the loan amount is up to or above Rs.4 lacs:\n\n- For amounts up to Rs.4 lacs, the margin required is 5%.\n- For amounts above Rs.4 lacs, the margin increases to 15%.\n\nAdditionally, the maximum quantum of loan for this scheme is up to Rs.20 lacs for studies abroad and up to Rs.10 lacs for studies in India.\n\nSo, depending on the amount applied for within these limits, the maximum amount could be either Rs.20 lacs (for studies abroad) or Rs.10 lacs (for studies in India).'}, {'role': 'user', 'content': 'Is collateral required?'}, {'role': 'assistant', 'content': 'No collateral security is required for the Education Loan Scheme, with a maximum security limit set at Rs.7.5 lacs.'}, {'role': 'user', 'content': 'What is the interest rate?'}, {'role': 'assistant', 'content': 'The interest rate for the Education Loan Scheme varies based on whether the loan amount is up to or above Rs.4 lacs:\n\n- For amounts up to Rs.4 lacs, the rate of interest is Prime Lending Rate (PLR).\n- For amounts above Rs.4 lacs, the rate increases to PLR plus 1%.'}]
+
+Original Question:
+Who is eligible?
+
+Rewritten Question:
+Who is eligible for the Education Loan Scheme based on loan amount and studies location?
+
+Retrieval time: 0.29 seconds
+LLM generation time: 14.54 seconds
+
+ANSWER:
+Eligibility for the Education Loan Scheme varies based on whether the loan amount is up to or above Rs.4 lacs:
+
+- For amounts up to Rs.4 lacs, the margin required is 5%.
+- For amounts above Rs.4 lacs, the margin increases to 15%.
+
+Additionally, the maximum quantum of loan for this scheme is up to Rs.20 lacs for studies abroad and up to Rs.10 lacs for studies in India.
+
+The scheme is available to existing customers with a satisfactory track record who have working capital limits up to Rs.10 lacs for last 3 years, or professionals with at least 50% of their gross income.
+
+SOURCES:
+Loans.aspx.txt
+
+TIME: 16.93 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 29
+----------------------------------------------------------------------------------------------------
+Is there any margin requirement?
+
+Conversation History
+[{'role': 'user', 'content': 'Is collateral required?'}, {'role': 'assistant', 'content': 'No collateral security is required for the Education Loan Scheme, with a maximum security limit set at Rs.7.5 lacs.'}, {'role': 'user', 'content': 'What is the interest rate?'}, {'role': 'assistant', 'content': 'The interest rate for the Education Loan Scheme varies based on whether the loan amount is up to or above Rs.4 lacs:\n\n- For amounts up to Rs.4 lacs, the rate of interest is Prime Lending Rate (PLR).\n- For amounts above Rs.4 lacs, the rate increases to PLR plus 1%.'}, {'role': 'user', 'content': 'Who is eligible?'}, {'role': 'assistant', 'content': 'Eligibility for the Education Loan Scheme varies based on whether the loan amount is up to or above Rs.4 lacs:\n\n- For amounts up to Rs.4 lacs, the margin required is 5%.\n- For amounts above Rs.4 lacs, the margin increases to 15%.\n\nAdditionally, the maximum quantum of loan for this scheme is up to Rs.20 lacs for studies abroad and up to Rs.10 lacs for studies in India.\n\nThe scheme is available to existing customers with a satisfactory track record who have working capital limits up to Rs.10 lacs for last 3 years, or professionals with at least 50% of their gross income.'}]
+
+Original Question:
+Is there any margin requirement?
+
+Rewritten Question:
+What is the margin requirement for the Education Loan Scheme?
+
+Retrieval time: 0.40 seconds
+LLM generation time: 9.35 seconds
+
+ANSWER:
+The Education Loan Scheme has a margin requirement based on the loan amount:
+
+- For amounts up to Rs.4 lacs, the margin required is 5%.
+- For amounts above Rs.4 lacs, the margin increases to 15%.
+
+SOURCES:
+Loans.aspx.txt, Education.aspx.txt
+
+TIME: 11.87 sec
+
+
+====================================================================================================
+SECTION : INSURANCE
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 30
+----------------------------------------------------------------------------------------------------
+What insurance schemes are mentioned?
+
+Conversation History
+[]
+
+Original Question:
+What insurance schemes are mentioned?
+
+Rewritten Question:
+What insurance schemes are mentioned?
+
+Retrieval time: 0.16 seconds
+LLM generation time: 2.49 seconds
+
+ANSWER:
+The insurance schemes mentioned in the provided context are:
+
+- Rashtiya Swasthiya Bima Yojana (RSBY)
+- Universal Health Insurance Scheme (UHIS)
+- Employees' State Insurance Scheme (ESIS)
+- National Agricultural Insurance Scheme (NAIS)
+
+SOURCES:
+Insurance.aspx.txt
+
+TIME: 2.65 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 31
+----------------------------------------------------------------------------------------------------
+Does the website mention RSBY?
+
+Conversation History
+[{'role': 'user', 'content': 'What insurance schemes are mentioned?'}, {'role': 'assistant', 'content': "The insurance schemes mentioned in the provided context are:\n\n- Rashtiya Swasthiya Bima Yojana (RSBY)\n- Universal Health Insurance Scheme (UHIS)\n- Employees' State Insurance Scheme (ESIS)\n- National Agricultural Insurance Scheme (NAIS)"}]
+
+Original Question:
+Does the website mention RSBY?
+
+Rewritten Question:
+Does the website mention Rashtiya Swasthya Bima Yojana (RSBY)?
+
+Retrieval time: 0.29 seconds
+LLM generation time: 8.39 seconds
+
+ANSWER:
+Yes, the website mentions Rashtiya Swasthiya Bima Yojana (RSBY), which is described as an insurance scheme launched by the Ministry of Labour and Employment, Government of India to provide health insurance coverage for Below Poverty Line (BPL) families.
+
+SOURCES:
+Insurance.aspx.txt
+
+TIME: 10.14 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 32
+----------------------------------------------------------------------------------------------------
+What is UHIS?
+
+Conversation History
+[{'role': 'user', 'content': 'What insurance schemes are mentioned?'}, {'role': 'assistant', 'content': "The insurance schemes mentioned in the provided context are:\n\n- Rashtiya Swasthiya Bima Yojana (RSBY)\n- Universal Health Insurance Scheme (UHIS)\n- Employees' State Insurance Scheme (ESIS)\n- National Agricultural Insurance Scheme (NAIS)"}, {'role': 'user', 'content': 'Does the website mention RSBY?'}, {'role': 'assistant', 'content': 'Yes, the website mentions Rashtiya Swasthiya Bima Yojana (RSBY), which is described as an insurance scheme launched by the Ministry of Labour and Employment, Government of India to provide health insurance coverage for Below Poverty Line (BPL) families.'}]
+
+Original Question:
+What is UHIS?
+
+Rewritten Question:
+What is the Universal Health Insurance Scheme (UHIS)?
+
+Retrieval time: 0.50 seconds
+LLM generation time: 12.03 seconds
+
+ANSWER:
+The Universal Health Insurance Scheme (UHIS) has been redesigned targeting only the Below Poverty Line (BPL) families. The scheme provides for reimbursement of medical expenses up to Rs.30,000/- towards hospitalization floated amongst the entire family, death cover due to an accident @ Rs.25,000/- to the earning head of the family and compensation due to loss of earning of the earning member @ Rs.50/- per day upto maximum of 15 days. The premium subsidy has been enhanced from Rs.100 to Rs.200 for an individual, Rs.300 for a family of five and Rs.400 for a family of seven, without any reduction in benefits.
+
+SOURCES:
+Insurance.aspx.txt
+
+TIME: 13.44 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 33
+----------------------------------------------------------------------------------------------------
+Does Ekta Trust provide insurance?
+
+Conversation History
+[{'role': 'user', 'content': 'What insurance schemes are mentioned?'}, {'role': 'assistant', 'content': "The insurance schemes mentioned in the provided context are:\n\n- Rashtiya Swasthiya Bima Yojana (RSBY)\n- Universal Health Insurance Scheme (UHIS)\n- Employees' State Insurance Scheme (ESIS)\n- National Agricultural Insurance Scheme (NAIS)"}, {'role': 'user', 'content': 'Does the website mention RSBY?'}, {'role': 'assistant', 'content': 'Yes, the website mentions Rashtiya Swasthiya Bima Yojana (RSBY), which is described as an insurance scheme launched by the Ministry of Labour and Employment, Government of India to provide health insurance coverage for Below Poverty Line (BPL) families.'}, {'role': 'user', 'content': 'What is UHIS?'}, {'role': 'assistant', 'content': 'The Universal Health Insurance Scheme (UHIS) has been redesigned targeting only the Below Poverty Line (BPL) families. The scheme provides for reimbursement of medical expenses up to Rs.30,000/- towards hospitalization floated amongst the entire family, death cover due to an accident @ Rs.25,000/- to the earning head of the family and compensation due to loss of earning of the earning member @ Rs.50/- per day upto maximum of 15 days. The premium subsidy has been enhanced from Rs.100 to Rs.200 for an individual, Rs.300 for a family of five and Rs.400 for a family of seven, without any reduction in benefits.'}]
+
+Original Question:
+Does Ekta Trust provide insurance?
+
+Rewritten Question:
+What does Ekta Trust offer in terms of insurance?
+
+Retrieval time: 0.63 seconds
+LLM generation time: 7.56 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+Insurance.aspx.txt
+
+TIME: 9.59 sec
+
+
+====================================================================================================
+SECTION : RUN FOR EQUALITY
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 34
+----------------------------------------------------------------------------------------------------
+What is Run for Equality?
+
+Conversation History
+[]
+
+Original Question:
+What is Run for Equality?
+
+Rewritten Question:
+What is Run for Equality?
+
+Retrieval time: 0.94 seconds
+LLM generation time: 3.30 seconds
+
+ANSWER:
+Run For Equality is a series of events organized by Ekta Navnirman Trust. These include run events, felicitation programs, mock interview programs, and creative competitions. The specific dates and details for each year's event are not provided in the given context.
+
+SOURCES:
+RunForEquality2026.txt, UPSC2025.txt, home.txt, RPSC2025.txt, Gallery.txt
+
+TIME: 4.24 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 35
+----------------------------------------------------------------------------------------------------
+Where is the run route?
+
+Conversation History
+[{'role': 'user', 'content': 'What is Run for Equality?'}, {'role': 'assistant', 'content': "Run For Equality is a series of events organized by Ekta Navnirman Trust. These include run events, felicitation programs, mock interview programs, and creative competitions. The specific dates and details for each year's event are not provided in the given context."}]
+
+Original Question:
+Where is the run route?
+
+Rewritten Question:
+What is the route of the Run For Equality event?
+
+Retrieval time: 0.52 seconds
+LLM generation time: 13.73 seconds
+
+ANSWER:
+The Run For Equality event has different routes for various distances:
+
+- **5KM**: Gandhi Circle - Jhalana Road - back to Gandhi Circle.
+- **10KM**: Gandhi Circle - Jhalana Road - Turn from Forest View Apartment Traffic light before Jagatpura Pulia - back to Gandhi Circle.
+- **21.09KM**: Gandhi Circle - Jhalana Road - Forest View Apartment Traffic light - Jagatpura Pulia - Mahal Road - Turn from AkshayPatra Chaurha - back to Gandhi Circle.
+
+These routes are detailed in the information provided for Run For Equality 7th-2026.
+
+SOURCES:
+RunForEquality2026.txt, UPSC2025.txt, Information.aspx.txt, RPSC2025.txt, EventPrize.txt
+
+TIME: 15.00 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 36
+----------------------------------------------------------------------------------------------------
+What is the total distance?
+
+Conversation History
+[{'role': 'user', 'content': 'What is Run for Equality?'}, {'role': 'assistant', 'content': "Run For Equality is a series of events organized by Ekta Navnirman Trust. These include run events, felicitation programs, mock interview programs, and creative competitions. The specific dates and details for each year's event are not provided in the given context."}, {'role': 'user', 'content': 'Where is the run route?'}, {'role': 'assistant', 'content': 'The Run For Equality event has different routes for various distances:\n\n- **5KM**: Gandhi Circle - Jhalana Road - back to Gandhi Circle.\n- **10KM**: Gandhi Circle - Jhalana Road - Turn from Forest View Apartment Traffic light before Jagatpura Pulia - back to Gandhi Circle.\n- **21.09KM**: Gandhi Circle - Jhalana Road - Forest View Apartment Traffic light - Jagatpura Pulia - Mahal Road - Turn from AkshayPatra Chaurha - back to Gandhi Circle.\n\nThese routes are detailed in the information provided for Run For Equality 7th-2026.'}]
+
+Original Question:
+What is the total distance?
+
+Rewritten Question:
+What is the total distance covered in all available run routes for Run For Equality?
+
+Retrieval time: 0.41 seconds
+LLM generation time: 12.04 seconds
+
+ANSWER:
+The total distances for the Run For Equality events are as follows:
+
+- **5KM**: Gandhi Circle -Jhalana Road- back to Gandhi Circle.
+- **10KM**: Gandhi Circle-Jhalana Road-Turn from Forest View Apartment Traffic light before Jagatpura Pulia- back to Gandhi Circle.
+- **21.09KM**: Gandhi Circle-Jhalana Road-Forest View Apartment Traffic light- Jagatpura Pulia- Mahal Road- Turn from AkshayPatra Chaurha - back to Gandhi Circle.
+
+The sum of these distances is 5KM + 10KM + 21.09KM = **36.09KM**.
+
+SOURCES:
+Information.aspx.txt, EventPrize.txt, RunRoute.aspx.txt, home.txt, RunCertificate.txt
+
+TIME: 13.94 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 37
+----------------------------------------------------------------------------------------------------
+What is the SOP for participants?
+
+Conversation History
+[{'role': 'user', 'content': 'What is Run for Equality?'}, {'role': 'assistant', 'content': "Run For Equality is a series of events organized by Ekta Navnirman Trust. These include run events, felicitation programs, mock interview programs, and creative competitions. The specific dates and details for each year's event are not provided in the given context."}, {'role': 'user', 'content': 'Where is the run route?'}, {'role': 'assistant', 'content': 'The Run For Equality event has different routes for various distances:\n\n- **5KM**: Gandhi Circle - Jhalana Road - back to Gandhi Circle.\n- **10KM**: Gandhi Circle - Jhalana Road - Turn from Forest View Apartment Traffic light before Jagatpura Pulia - back to Gandhi Circle.\n- **21.09KM**: Gandhi Circle - Jhalana Road - Forest View Apartment Traffic light - Jagatpura Pulia - Mahal Road - Turn from AkshayPatra Chaurha - back to Gandhi Circle.\n\nThese routes are detailed in the information provided for Run For Equality 7th-2026.'}, {'role': 'user', 'content': 'What is the total distance?'}, {'role': 'assistant', 'content': 'The total distances for the Run For Equality events are as follows:\n\n- **5KM**: Gandhi Circle -Jhalana Road- back to Gandhi Circle.\n- **10KM**: Gandhi Circle-Jhalana Road-Turn from Forest View Apartment Traffic light before Jagatpura Pulia- back to Gandhi Circle.\n- **21.09KM**: Gandhi Circle-Jhalana Road-Forest View Apartment Traffic light- Jagatpura Pulia- Mahal Road- Turn from AkshayPatra Chaurha - back to Gandhi Circle.\n\nThe sum of these distances is 5KM + 10KM + 21.09KM = **36.09KM**.'}]
+
+Original Question:
+What is the SOP for participants?
+
+Rewritten Question:
+What are the specific rules and procedures (SOP) for participants in Run For Equality?
+
+Retrieval time: 0.42 seconds
+LLM generation time: 8.12 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+SOP.aspx.txt, RunForEquality2026.txt, UPSC2025.txt, home.txt, RPSC2025.txt
+
+TIME: 10.06 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 38
+----------------------------------------------------------------------------------------------------
+Can I see last year's winners?
+
+Conversation History
+[{'role': 'user', 'content': 'Where is the run route?'}, {'role': 'assistant', 'content': 'The Run For Equality event has different routes for various distances:\n\n- **5KM**: Gandhi Circle - Jhalana Road - back to Gandhi Circle.\n- **10KM**: Gandhi Circle - Jhalana Road - Turn from Forest View Apartment Traffic light before Jagatpura Pulia - back to Gandhi Circle.\n- **21.09KM**: Gandhi Circle - Jhalana Road - Forest View Apartment Traffic light - Jagatpura Pulia - Mahal Road - Turn from AkshayPatra Chaurha - back to Gandhi Circle.\n\nThese routes are detailed in the information provided for Run For Equality 7th-2026.'}, {'role': 'user', 'content': 'What is the total distance?'}, {'role': 'assistant', 'content': 'The total distances for the Run For Equality events are as follows:\n\n- **5KM**: Gandhi Circle -Jhalana Road- back to Gandhi Circle.\n- **10KM**: Gandhi Circle-Jhalana Road-Turn from Forest View Apartment Traffic light before Jagatpura Pulia- back to Gandhi Circle.\n- **21.09KM**: Gandhi Circle-Jhalana Road-Forest View Apartment Traffic light- Jagatpura Pulia- Mahal Road- Turn from AkshayPatra Chaurha - back to Gandhi Circle.\n\nThe sum of these distances is 5KM + 10KM + 21.09KM = **36.09KM**.'}, {'role': 'user', 'content': 'What is the SOP for participants?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}]
+
+Original Question:
+Can I see last year's winners?
+
+Rewritten Question:
+What are the last year's winners?
+
+Retrieval time: 0.43 seconds
+LLM generation time: 9.11 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+Winners.aspx.txt, Information.aspx.txt, RunForEquality2026.txt
+
+TIME: 11.37 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 39
+----------------------------------------------------------------------------------------------------
+Is there a theme song?
+
+Conversation History
+[{'role': 'user', 'content': 'What is the total distance?'}, {'role': 'assistant', 'content': 'The total distances for the Run For Equality events are as follows:\n\n- **5KM**: Gandhi Circle -Jhalana Road- back to Gandhi Circle.\n- **10KM**: Gandhi Circle-Jhalana Road-Turn from Forest View Apartment Traffic light before Jagatpura Pulia- back to Gandhi Circle.\n- **21.09KM**: Gandhi Circle-Jhalana Road-Forest View Apartment Traffic light- Jagatpura Pulia- Mahal Road- Turn from AkshayPatra Chaurha - back to Gandhi Circle.\n\nThe sum of these distances is 5KM + 10KM + 21.09KM = **36.09KM**.'}, {'role': 'user', 'content': 'What is the SOP for participants?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}, {'role': 'user', 'content': "Can I see last year's winners?"}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}]
+
+Original Question:
+Is there a theme song?
+
+Rewritten Question:
+What is the theme song for Run For Equality?
+
+Retrieval time: 0.31 seconds
+LLM generation time: 6.84 seconds
+
+ANSWER:
+[Source 1: ThemeSong.aspx.txt]
+Theme Song
+
+SOURCES:
+ThemeSong.aspx.txt, RunForEquality2026.txt, UPSC2025.txt, RPSC2025.txt, Gallery.txt
+
+TIME: 8.37 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 40
+----------------------------------------------------------------------------------------------------
+Can I view the gallery?
+
+Conversation History
+[{'role': 'user', 'content': 'What is the SOP for participants?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}, {'role': 'user', 'content': "Can I see last year's winners?"}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}, {'role': 'user', 'content': 'Is there a theme song?'}, {'role': 'assistant', 'content': '[Source 1: ThemeSong.aspx.txt]\nTheme Song'}]
+
+Original Question:
+Can I view the gallery?
+
+Rewritten Question:
+Is there a gallery section?
+
+Retrieval time: 0.30 seconds
+LLM generation time: 12.56 seconds
+
+ANSWER:
+Yes, you can view the gallery. The gallery contains images related to various events and programs organized by Ekta Navnirman Trust. Here are some of the categories available in the gallery:
+
+- Felicitation Programme 2016
+- Gallery of Events
+- Run For Equality
+- Run For Equality 2026
+- Run For Equality 2025
+- Run For Equality 2023
+- Run For Equality 2022
+- Run For Equality 2020
+- Run For Equality 2019
+- Run For Equality 2018
+- Run For Equality 2017
+- Felicitation Programme 2019
+- Felicitation Programme 2018
+- Felicitation Programme 2017
+- Felicitation Programme 2016
+- Mock Interview Programme
+- UPSC
+- UPSC 2025
+- UPSC 2018
+- UPSC 2017
+- RPSC
+- RPSC 2025
+- RPSC 2020
+- RPSC 2017
+- Ekta Creative Competition
+- Ekta Creative Competition 2022
+- Ekta Creative Competition 2023
+- Ekta Creative Competition 2025
+- Donation to Dangawas Atrocity Victims
+- Donation to Una Atrocity Victims
+- Mata Ramabai Ekta Vollyball cup 2017
+- Savita Bhim Ekta InterCaste Marriage Programme
+- Mata Savitribai Phule Ekta career Counselling & Guidance Programme
+- Covid-19
+- Library
+- Miscellaneous
+
+You can navigate through these categories to view the images.
+
+SOURCES:
+Gallery.txt, News.txt, RPSC2025.txt, CelebritiesAppeal.aspx.txt
+
+TIME: 13.68 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 41
+----------------------------------------------------------------------------------------------------
+Have any celebrities appealed for the event?
+
+Conversation History
+[{'role': 'user', 'content': "Can I see last year's winners?"}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}, {'role': 'user', 'content': 'Is there a theme song?'}, {'role': 'assistant', 'content': '[Source 1: ThemeSong.aspx.txt]\nTheme Song'}, {'role': 'user', 'content': 'Can I view the gallery?'}, {'role': 'assistant', 'content': 'Yes, you can view the gallery. The gallery contains images related to various events and programs organized by Ekta Navnirman Trust. Here are some of the categories available in the gallery:\n\n- Felicitation Programme 2016\n- Gallery of Events\n- Run For Equality\n- Run For Equality 2026\n- Run For Equality 2025\n- Run For Equality 2023\n- Run For Equality 2022\n- Run For Equality 2020\n- Run For Equality 2019\n- Run For Equality 2018\n- Run For Equality 2017\n- Felicitation Programme 2019\n- Felicitation Programme 2018\n- Felicitation Programme 2017\n- Felicitation Programme 2016\n- Mock Interview Programme\n- UPSC\n- UPSC 2025\n- UPSC 2018\n- UPSC 2017\n- RPSC\n- RPSC 2025\n- RPSC 2020\n- RPSC 2017\n- Ekta Creative Competition\n- Ekta Creative Competition 2022\n- Ekta Creative Competition 2023\n- Ekta Creative Competition 2025\n- Donation to Dangawas Atrocity Victims\n- Donation to Una Atrocity Victims\n- Mata Ramabai Ekta Vollyball cup 2017\n- Savita Bhim Ekta InterCaste Marriage Programme\n- Mata Savitribai Phule Ekta career Counselling & Guidance Programme\n- Covid-19\n- Library\n- Miscellaneous\n\nYou can navigate through these categories to view the images.'}]
+
+Original Question:
+Have any celebrities appealed for the event?
+
+Rewritten Question:
+Have any celebrities participated or appealed for any of the events organized by Ekta Navnirman Trust?
+
+Retrieval time: 0.38 seconds
+LLM generation time: 6.37 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+TermsAndCondition.aspx.txt, EventPrize.txt
+
+TIME: 8.85 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 42
+----------------------------------------------------------------------------------------------------
+Where is the Bib Expo?
+
+Conversation History
+[{'role': 'user', 'content': 'Is there a theme song?'}, {'role': 'assistant', 'content': '[Source 1: ThemeSong.aspx.txt]\nTheme Song'}, {'role': 'user', 'content': 'Can I view the gallery?'}, {'role': 'assistant', 'content': 'Yes, you can view the gallery. The gallery contains images related to various events and programs organized by Ekta Navnirman Trust. Here are some of the categories available in the gallery:\n\n- Felicitation Programme 2016\n- Gallery of Events\n- Run For Equality\n- Run For Equality 2026\n- Run For Equality 2025\n- Run For Equality 2023\n- Run For Equality 2022\n- Run For Equality 2020\n- Run For Equality 2019\n- Run For Equality 2018\n- Run For Equality 2017\n- Felicitation Programme 2019\n- Felicitation Programme 2018\n- Felicitation Programme 2017\n- Felicitation Programme 2016\n- Mock Interview Programme\n- UPSC\n- UPSC 2025\n- UPSC 2018\n- UPSC 2017\n- RPSC\n- RPSC 2025\n- RPSC 2020\n- RPSC 2017\n- Ekta Creative Competition\n- Ekta Creative Competition 2022\n- Ekta Creative Competition 2023\n- Ekta Creative Competition 2025\n- Donation to Dangawas Atrocity Victims\n- Donation to Una Atrocity Victims\n- Mata Ramabai Ekta Vollyball cup 2017\n- Savita Bhim Ekta InterCaste Marriage Programme\n- Mata Savitribai Phule Ekta career Counselling & Guidance Programme\n- Covid-19\n- Library\n- Miscellaneous\n\nYou can navigate through these categories to view the images.'}, {'role': 'user', 'content': 'Have any celebrities appealed for the event?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}]
+
+Original Question:
+Where is the Bib Expo?
+
+Rewritten Question:
+Where is the Bib Expo held?
+
+Retrieval time: 0.34 seconds
+LLM generation time: 8.43 seconds
+
+ANSWER:
+BIB Expo will be held at the Institute of Local self-Government, Tonk Road, Jaipur on 13th April from 10AM to 7PM.
+
+SOURCES:
+BibData.aspx.txt, EventPrize.txt, Information.aspx.txt, home.txt
+
+TIME: 10.42 sec
+
+
+====================================================================================================
+SECTION : MIP
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 43
+----------------------------------------------------------------------------------------------------
+What is the RPSC Mock Interview Programme?
+
+Conversation History
+[]
+
+Original Question:
+What is the RPSC Mock Interview Programme?
+
+Rewritten Question:
+What is the RPSC Mock Interview Programme?
+
+Retrieval time: 0.33 seconds
+LLM generation time: 5.43 seconds
+
+ANSWER:
+The RPSC Mock Interview Programme is an online mock interview programme organized by Ekta Navnirman Trust for aspirants preparing for the RAS (Revised Selection of Officers Scale) main examination in 2018. The programme included previous year's RPSC chairperson, former RPSC members, senior IAS/IPS/RPS/IRS officers and other service holders who conducted mock interviews. Participants received feedback after each session and were provided with a buddy officer for continuous support throughout the process. Interested participants can send their application to ekta.rpsc.mip@gmail.com or contact Ekta Navnirman Trust at +91 78776 64078 via WhatsApp. The programme will be conducted online using Zoom App due to COVID-19 precautions.
+
+SOURCES:
+MIPTeam.aspx_RPSC.txt, UPSC2025.txt, RunForEquality2026.txt, RPSC2025.txt, Gallery.txt
+
+TIME: 5.77 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 44
+----------------------------------------------------------------------------------------------------
+How do I register for the MIP?
+
+Conversation History
+[{'role': 'user', 'content': 'What is the RPSC Mock Interview Programme?'}, {'role': 'assistant', 'content': "The RPSC Mock Interview Programme is an online mock interview programme organized by Ekta Navnirman Trust for aspirants preparing for the RAS (Revised Selection of Officers Scale) main examination in 2018. The programme included previous year's RPSC chairperson, former RPSC members, senior IAS/IPS/RPS/IRS officers and other service holders who conducted mock interviews. Participants received feedback after each session and were provided with a buddy officer for continuous support throughout the process. Interested participants can send their application to ekta.rpsc.mip@gmail.com or contact Ekta Navnirman Trust at +91 78776 64078 via WhatsApp. The programme will be conducted online using Zoom App due to COVID-19 precautions."}]
+
+Original Question:
+How do I register for the MIP?
+
+Rewritten Question:
+How do I register for the RPSC Mock Interview Programme?
+
+Retrieval time: 0.40 seconds
+LLM generation time: 8.65 seconds
+
+ANSWER:
+To register for the Free IAS Mock Interview Programme, you can visit the following link to register:
+
+Register Here
+
+SOURCES:
+MIPTeam.aspx_RPSC.txt, UPSC2025.txt, home.txt, RunForEquality2026.txt, RPSC2025.txt
+
+TIME: 10.12 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 45
+----------------------------------------------------------------------------------------------------
+What documents are required?
+
+Conversation History
+[{'role': 'user', 'content': 'What is the RPSC Mock Interview Programme?'}, {'role': 'assistant', 'content': "The RPSC Mock Interview Programme is an online mock interview programme organized by Ekta Navnirman Trust for aspirants preparing for the RAS (Revised Selection of Officers Scale) main examination in 2018. The programme included previous year's RPSC chairperson, former RPSC members, senior IAS/IPS/RPS/IRS officers and other service holders who conducted mock interviews. Participants received feedback after each session and were provided with a buddy officer for continuous support throughout the process. Interested participants can send their application to ekta.rpsc.mip@gmail.com or contact Ekta Navnirman Trust at +91 78776 64078 via WhatsApp. The programme will be conducted online using Zoom App due to COVID-19 precautions."}, {'role': 'user', 'content': 'How do I register for the MIP?'}, {'role': 'assistant', 'content': 'To register for the Free IAS Mock Interview Programme, you can visit the following link to register:\n\nRegister Here'}]
+
+Original Question:
+What documents are required?
+
+Rewritten Question:
+What documents are required for registration in the RPSC Mock Interview Programme?
+
+Retrieval time: 0.63 seconds
+LLM generation time: 8.62 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+MIPTeam.aspx_RPSC.txt, UPSC2025.txt, home.txt, RunForEquality2026.txt, RPSC2025.txt
+
+TIME: 10.00 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 46
+----------------------------------------------------------------------------------------------------
+Is there any registration fee?
+
+Conversation History
+[{'role': 'user', 'content': 'What is the RPSC Mock Interview Programme?'}, {'role': 'assistant', 'content': "The RPSC Mock Interview Programme is an online mock interview programme organized by Ekta Navnirman Trust for aspirants preparing for the RAS (Revised Selection of Officers Scale) main examination in 2018. The programme included previous year's RPSC chairperson, former RPSC members, senior IAS/IPS/RPS/IRS officers and other service holders who conducted mock interviews. Participants received feedback after each session and were provided with a buddy officer for continuous support throughout the process. Interested participants can send their application to ekta.rpsc.mip@gmail.com or contact Ekta Navnirman Trust at +91 78776 64078 via WhatsApp. The programme will be conducted online using Zoom App due to COVID-19 precautions."}, {'role': 'user', 'content': 'How do I register for the MIP?'}, {'role': 'assistant', 'content': 'To register for the Free IAS Mock Interview Programme, you can visit the following link to register:\n\nRegister Here'}, {'role': 'user', 'content': 'What documents are required?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}]
+
+Original Question:
+Is there any registration fee?
+
+Rewritten Question:
+What is the registration process and do I need to pay a fee for the RPSC Mock Interview Programme?
+
+Retrieval time: 0.58 seconds
+LLM generation time: 8.32 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+MIPTeam.aspx_RPSC.txt, UPSC2025.txt, RPSC2025.txt, home.txt
+
+TIME: 9.92 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 47
+----------------------------------------------------------------------------------------------------
+Who can apply?
+
+Conversation History
+[{'role': 'user', 'content': 'How do I register for the MIP?'}, {'role': 'assistant', 'content': 'To register for the Free IAS Mock Interview Programme, you can visit the following link to register:\n\nRegister Here'}, {'role': 'user', 'content': 'What documents are required?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}, {'role': 'user', 'content': 'Is there any registration fee?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}]
+
+Original Question:
+Who can apply?
+
+Rewritten Question:
+Who can apply for the Free IAS Mock Interview Programme?
+
+Retrieval time: 0.33 seconds
+LLM generation time: 8.52 seconds
+
+ANSWER:
+The Free IAS Mock Interview Programme is open for CSE-2023 qualified candidates. To apply, you can visit the following link to register:
+
+Register Here
+
+SOURCES:
+home.txt, MIPTeam.aspx_RPSC.txt, UPSC2025.txt, RunForEquality2026.txt
+
+TIME: 9.72 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 48
+----------------------------------------------------------------------------------------------------
+Can I become a mentor?
+
+Conversation History
+[{'role': 'user', 'content': 'What documents are required?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}, {'role': 'user', 'content': 'Is there any registration fee?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}, {'role': 'user', 'content': 'Who can apply?'}, {'role': 'assistant', 'content': 'The Free IAS Mock Interview Programme is open for CSE-2023 qualified candidates. To apply, you can visit the following link to register:\n\nRegister Here'}]
+
+Original Question:
+Can I become a mentor?
+
+Rewritten Question:
+Can one become a mentor in the Free IAS Mock Interview Programme?
+
+Retrieval time: 0.88 seconds
+LLM generation time: 8.35 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+home.txt, MIPTeam.aspx_RPSC.txt, Gallery.txt, RunForEquality2026.txt
+
+TIME: 10.34 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 49
+----------------------------------------------------------------------------------------------------
+Who is the SPOC?
+
+Conversation History
+[{'role': 'user', 'content': 'Is there any registration fee?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}, {'role': 'user', 'content': 'Who can apply?'}, {'role': 'assistant', 'content': 'The Free IAS Mock Interview Programme is open for CSE-2023 qualified candidates. To apply, you can visit the following link to register:\n\nRegister Here'}, {'role': 'user', 'content': 'Can I become a mentor?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}]
+
+Original Question:
+Who is the SPOC?
+
+Rewritten Question:
+Who can serve as the SPOC (Subject Program Owner Contact)?
+
+Retrieval time: 0.85 seconds
+LLM generation time: 4.40 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+Contact.txt, MIPFacultyRegistration.aspx_RPSC.txt, MIPRegistration.aspx_RPSC.txt, Objectives.txt
+
+TIME: 6.28 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 50
+----------------------------------------------------------------------------------------------------
+Can I reschedule my interview?
+
+Conversation History
+[{'role': 'user', 'content': 'Who can apply?'}, {'role': 'assistant', 'content': 'The Free IAS Mock Interview Programme is open for CSE-2023 qualified candidates. To apply, you can visit the following link to register:\n\nRegister Here'}, {'role': 'user', 'content': 'Can I become a mentor?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}, {'role': 'user', 'content': 'Who is the SPOC?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}]
+
+Original Question:
+Can I reschedule my interview?
+
+Rewritten Question:
+Who can apply for the Free IAS Mock Interview Programme?
+
+Retrieval time: 0.29 seconds
+LLM generation time: 7.66 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+home.txt, MIPTeam.aspx_RPSC.txt, UPSC2025.txt, RunForEquality2026.txt
+
+TIME: 8.81 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 51
+----------------------------------------------------------------------------------------------------
+Is there a dress code?
+
+Conversation History
+[{'role': 'user', 'content': 'Can I become a mentor?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}, {'role': 'user', 'content': 'Who is the SPOC?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}, {'role': 'user', 'content': 'Can I reschedule my interview?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}]
+
+Original Question:
+Is there a dress code?
+
+Rewritten Question:
+What are the dress code requirements?
+
+Retrieval time: 0.28 seconds
+LLM generation time: 1.07 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+Education.aspx.txt, Girl%20Schemes.txt
+
+TIME: 2.05 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 52
+----------------------------------------------------------------------------------------------------
+Can I participate before clearing the written examination?
+
+Conversation History
+[{'role': 'user', 'content': 'Who is the SPOC?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}, {'role': 'user', 'content': 'Can I reschedule my interview?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}, {'role': 'user', 'content': 'Is there a dress code?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}]
+
+Original Question:
+Can I participate before clearing the written examination?
+
+Rewritten Question:
+Can I participate in the interview process before completing the written exam?
+
+Retrieval time: 0.22 seconds
+LLM generation time: 0.99 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+MIPTeam.aspx_RPSC.txt, Girl%20Schemes.txt, home.txt
+
+TIME: 2.00 sec
+
+
+====================================================================================================
+SECTION : CREATIVE COMPETITION
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 53
+----------------------------------------------------------------------------------------------------
+What is the Ekta Creative Competition 2025?
+
+Conversation History
+[]
+
+Original Question:
+What is the Ekta Creative Competition 2025?
+
+Rewritten Question:
+What is the Ekta Creative Competition 2025?
+
+Retrieval time: 0.16 seconds
+LLM generation time: 2.50 seconds
+
+ANSWER:
+The Ekta Creative Competition 2025 has been completed. Results for various categories such as Painting for Adults, Sketch Drawing for Children, Essay for Adults and Children, Speech for Adults, Fancy Dress Competition for Kids, Songs for Adults, and Reels for Adults have been declared. You can download the results by clicking on the provided link.
+
+SOURCES:
+EktaCreativeCompetition2025.aspx.txt, UPSC2025.txt, RunForEquality2026.txt, Gallery.txt
+
+TIME: 2.66 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 54
+----------------------------------------------------------------------------------------------------
+What are the competition categories?
+
+Conversation History
+[{'role': 'user', 'content': 'What is the Ekta Creative Competition 2025?'}, {'role': 'assistant', 'content': 'The Ekta Creative Competition 2025 has been completed. Results for various categories such as Painting for Adults, Sketch Drawing for Children, Essay for Adults and Children, Speech for Adults, Fancy Dress Competition for Kids, Songs for Adults, and Reels for Adults have been declared. You can download the results by clicking on the provided link.'}]
+
+Original Question:
+What are the competition categories?
+
+Rewritten Question:
+What are the categories for the Ekta Creative Competition 2025?
+
+Retrieval time: 0.24 seconds
+LLM generation time: 6.82 seconds
+
+ANSWER:
+The competition categories include Painting for Adults, Sketch Drawing for Children, Essay for Adults and Children, Speech for Adults, Fancy Dress Competition for Kids, Songs for Adults, and Reels for Adults.
+
+SOURCES:
+EktaCreativeCompetition2025.aspx.txt, UPSC2025.txt, RunForEquality2026.txt, Gallery.txt
+
+TIME: 7.83 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 55
+----------------------------------------------------------------------------------------------------
+How do I submit my entry?
+
+Conversation History
+[{'role': 'user', 'content': 'What is the Ekta Creative Competition 2025?'}, {'role': 'assistant', 'content': 'The Ekta Creative Competition 2025 has been completed. Results for various categories such as Painting for Adults, Sketch Drawing for Children, Essay for Adults and Children, Speech for Adults, Fancy Dress Competition for Kids, Songs for Adults, and Reels for Adults have been declared. You can download the results by clicking on the provided link.'}, {'role': 'user', 'content': 'What are the competition categories?'}, {'role': 'assistant', 'content': 'The competition categories include Painting for Adults, Sketch Drawing for Children, Essay for Adults and Children, Speech for Adults, Fancy Dress Competition for Kids, Songs for Adults, and Reels for Adults.'}]
+
+Original Question:
+How do I submit my entry?
+
+Rewritten Question:
+How can I submit an entry for the Ekta Creative Competition 2025?
+
+Retrieval time: 0.29 seconds
+LLM generation time: 9.01 seconds
+
+ANSWER:
+To submit your entry for the Ekta Creative Competition 2025, you need to visit the Ekta Navnirman Trust website at www.ektatrust.org.in. Here are the steps:
+
+1. Go to the "Apply Now" section on the website.
+2. Fill in your details including Name, Email, Mobile Number, Contest, Address, and upload your entry file (PDF, Image, or Video) which should not exceed 1 GB in size.
+
+Please ensure you submit before the deadline of 20-11-2025.
+
+SOURCES:
+EktaCreativeCompetition2025.aspx.txt, UPSC2025.txt, Gallery.txt, RunForEquality2026.txt
+
+TIME: 10.23 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 56
+----------------------------------------------------------------------------------------------------
+Is there any prize?
+
+Conversation History
+[{'role': 'user', 'content': 'What is the Ekta Creative Competition 2025?'}, {'role': 'assistant', 'content': 'The Ekta Creative Competition 2025 has been completed. Results for various categories such as Painting for Adults, Sketch Drawing for Children, Essay for Adults and Children, Speech for Adults, Fancy Dress Competition for Kids, Songs for Adults, and Reels for Adults have been declared. You can download the results by clicking on the provided link.'}, {'role': 'user', 'content': 'What are the competition categories?'}, {'role': 'assistant', 'content': 'The competition categories include Painting for Adults, Sketch Drawing for Children, Essay for Adults and Children, Speech for Adults, Fancy Dress Competition for Kids, Songs for Adults, and Reels for Adults.'}, {'role': 'user', 'content': 'How do I submit my entry?'}, {'role': 'assistant', 'content': 'To submit your entry for the Ekta Creative Competition 2025, you need to visit the Ekta Navnirman Trust website at www.ektatrust.org.in. Here are the steps:\n\n1. Go to the "Apply Now" section on the website.\n2. Fill in your details including Name, Email, Mobile Number, Contest, Address, and upload your entry file (PDF, Image, or Video) which should not exceed 1 GB in size.\n\nPlease ensure you submit before the deadline of 20-11-2025.'}]
+
+Original Question:
+Is there any prize?
+
+Rewritten Question:
+What are the prizes for each category in the Ekta Creative Competition 2025?
+
+Retrieval time: 0.32 seconds
+LLM generation time: 6.73 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+EktaCreativeCompetition2025.aspx.txt, UPSC2025.txt, RunForEquality2026.txt, Gallery.txt
+
+TIME: 8.21 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 57
+----------------------------------------------------------------------------------------------------
+Who can participate?
+
+Conversation History
+[{'role': 'user', 'content': 'What are the competition categories?'}, {'role': 'assistant', 'content': 'The competition categories include Painting for Adults, Sketch Drawing for Children, Essay for Adults and Children, Speech for Adults, Fancy Dress Competition for Kids, Songs for Adults, and Reels for Adults.'}, {'role': 'user', 'content': 'How do I submit my entry?'}, {'role': 'assistant', 'content': 'To submit your entry for the Ekta Creative Competition 2025, you need to visit the Ekta Navnirman Trust website at www.ektatrust.org.in. Here are the steps:\n\n1. Go to the "Apply Now" section on the website.\n2. Fill in your details including Name, Email, Mobile Number, Contest, Address, and upload your entry file (PDF, Image, or Video) which should not exceed 1 GB in size.\n\nPlease ensure you submit before the deadline of 20-11-2025.'}, {'role': 'user', 'content': 'Is there any prize?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}]
+
+Original Question:
+Who can participate?
+
+Rewritten Question:
+Who can participate in the Ekta Creative Competition 2025?
+
+Retrieval time: 0.32 seconds
+LLM generation time: 8.18 seconds
+
+ANSWER:
+The Ekta Creative Competition 2025 is open to participants in various categories such as Painting for Adults, Sketch Drawing for Children, Essay for Adults and Children, Speech for Adults, Fancy Dress Competition for Kids, Songs for Adults, and Reels for Adults. Participants need to visit the Ekta Navnirman Trust website at www.ektatrust.org.in to apply.
+
+SOURCES:
+EktaCreativeCompetition2025.aspx.txt, UPSC2025.txt, RunForEquality2026.txt, Gallery.txt
+
+TIME: 9.53 sec
+
+
+====================================================================================================
+SECTION : MIGRANT WORKERS
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 58
+----------------------------------------------------------------------------------------------------
+How do I register as a migrant worker?
+
+Conversation History
+[]
+
+Original Question:
+How do I register as a migrant worker?
+
+Rewritten Question:
+How do I register as a migrant worker?
+
+Retrieval time: 0.32 seconds
+LLM generation time: 2.95 seconds
+
+ANSWER:
+To register as a migrant worker, you can fill out the Covid-19 Migrant Registration Form/ कोविद -19 प्रवासी पंजीकरण फॉर्म available on the Ekta Navnirman Trust website. The form requires you to provide your name, Aadhar Number (optional), Mobile Number, Present Full Address, and Native Place Address.
+
+SOURCES:
+TermsAndCondition.aspx.txt, MigrantsRegistration.aspx.txt, Insurance.aspx.txt, Objectives.txt
+
+TIME: 3.28 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 59
+----------------------------------------------------------------------------------------------------
+What support does Ekta Trust provide to migrant workers?
+
+Conversation History
+[{'role': 'user', 'content': 'How do I register as a migrant worker?'}, {'role': 'assistant', 'content': 'To register as a migrant worker, you can fill out the Covid-19 Migrant Registration Form/ कोविद -19 प्रवासी पंजीकरण फॉर्म available on the Ekta Navnirman Trust website. The form requires you to provide your name, Aadhar Number (optional), Mobile Number, Present Full Address, and Native Place Address.'}]
+
+Original Question:
+What support does Ekta Trust provide to migrant workers?
+
+Rewritten Question:
+What support does Ekta Trust provide to migrant workers?
+
+Retrieval time: 0.38 seconds
+LLM generation time: 7.11 seconds
+
+ANSWER:
+Ekta Navnirman Trust provides support to migrant workers by ensuring their smart cards are portable across any RSBY empanelled hospital in India. This makes the scheme truly unique and beneficial for poor families who migrate from one place to another. The trust also offers training for workers, especially women, for various employment opportunities and establishes and runs vocational/skill training centers to help youth develop self-employment skills.
+
+SOURCES:
+Insurance.aspx.txt, Objectives.txt, TermsAndCondition.aspx.txt, Premable.txt
+
+TIME: 8.17 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 60
+----------------------------------------------------------------------------------------------------
+What documents are required for migrant registration?
+
+Conversation History
+[{'role': 'user', 'content': 'How do I register as a migrant worker?'}, {'role': 'assistant', 'content': 'To register as a migrant worker, you can fill out the Covid-19 Migrant Registration Form/ कोविद -19 प्रवासी पंजीकरण फॉर्म available on the Ekta Navnirman Trust website. The form requires you to provide your name, Aadhar Number (optional), Mobile Number, Present Full Address, and Native Place Address.'}, {'role': 'user', 'content': 'What support does Ekta Trust provide to migrant workers?'}, {'role': 'assistant', 'content': 'Ekta Navnirman Trust provides support to migrant workers by ensuring their smart cards are portable across any RSBY empanelled hospital in India. This makes the scheme truly unique and beneficial for poor families who migrate from one place to another. The trust also offers training for workers, especially women, for various employment opportunities and establishes and runs vocational/skill training centers to help youth develop self-employment skills.'}]
+
+Original Question:
+What documents are required for migrant registration?
+
+Rewritten Question:
+What documents are required for registering as a migrant worker?
+
+Retrieval time: 0.33 seconds
+LLM generation time: 8.36 seconds
+
+ANSWER:
+The Covid-19 Migrant Registration Form/ कोविद -19 प्रवासी पंजीकरण फॉर्म requires you to provide your name, Aadhar Number (optional), Mobile Number, Present Full Address, and Native Place Address.
+
+SOURCES:
+Insurance.aspx.txt, MigrantsRegistration.aspx.txt, Objectives.txt, Loans.aspx.txt
+
+TIME: 9.74 sec
+
+
+====================================================================================================
+SECTION : ATROCITY REPORTING
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 61
+----------------------------------------------------------------------------------------------------
+How do I report an atrocity?
+
+Conversation History
+[]
+
+Original Question:
+How do I report an atrocity?
+
+Rewritten Question:
+How do I report an atrocity?
+
+Retrieval time: 0.28 seconds
+LLM generation time: 5.22 seconds
+
+ANSWER:
+To report an atrocity, you need to fill out the Atrocity Reporting form. Here are the steps:
+
+1. Name of the Reporter
+2. Mobile of the Reporter
+3. Email of the Reporter
+4. Place of Atrocity
+5. Any Printed News
+6. Victims Name
+7. Victims Mobile Number
+8. Details of the Atrocity
+
+Please ensure you have all the necessary information before proceeding to fill out the form.
+
+SOURCES:
+AtrocitiesReporting.aspx.txt, RPSC2025.txt, Gallery.txt, RunForEquality2026.txt, UPSC2025.txt
+
+TIME: 5.50 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 62
+----------------------------------------------------------------------------------------------------
+What information is required to report an atrocity?
+
+Conversation History
+[{'role': 'user', 'content': 'How do I report an atrocity?'}, {'role': 'assistant', 'content': 'To report an atrocity, you need to fill out the Atrocity Reporting form. Here are the steps:\n\n1. Name of the Reporter\n2. Mobile of the Reporter\n3. Email of the Reporter\n4. Place of Atrocity\n5. Any Printed News\n6. Victims Name\n7. Victims Mobile Number\n8. Details of the Atrocity\n\nPlease ensure you have all the necessary information before proceeding to fill out the form.'}]
+
+Original Question:
+What information is required to report an atrocity?
+
+Rewritten Question:
+What information is needed when reporting an atrocity?
+
+Retrieval time: 0.35 seconds
+LLM generation time: 10.11 seconds
+
+ANSWER:
+To report an atrocity, you need to fill out the Atrocity Reporting form. Here are the steps:
+
+1. Name of the Reporter
+2. Mobile of the Reporter
+3. Email of the Reporter
+4. Place of Atrocity
+5. Any Printed News
+6. Victims Name
+7. Victims Mobile Number
+8. Details of the Atrocity
+
+Please ensure you have all the necessary information before proceeding to fill out the form.
+
+SOURCES:
+AtrocitiesReporting.aspx.txt, RPSC2025.txt, TermsAndCondition.aspx.txt, EventPrize.txt
+
+TIME: 11.49 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 63
+----------------------------------------------------------------------------------------------------
+Who can report an atrocity case?
+
+Conversation History
+[{'role': 'user', 'content': 'How do I report an atrocity?'}, {'role': 'assistant', 'content': 'To report an atrocity, you need to fill out the Atrocity Reporting form. Here are the steps:\n\n1. Name of the Reporter\n2. Mobile of the Reporter\n3. Email of the Reporter\n4. Place of Atrocity\n5. Any Printed News\n6. Victims Name\n7. Victims Mobile Number\n8. Details of the Atrocity\n\nPlease ensure you have all the necessary information before proceeding to fill out the form.'}, {'role': 'user', 'content': 'What information is required to report an atrocity?'}, {'role': 'assistant', 'content': 'To report an atrocity, you need to fill out the Atrocity Reporting form. Here are the steps:\n\n1. Name of the Reporter\n2. Mobile of the Reporter\n3. Email of the Reporter\n4. Place of Atrocity\n5. Any Printed News\n6. Victims Name\n7. Victims Mobile Number\n8. Details of the Atrocity\n\nPlease ensure you have all the necessary information before proceeding to fill out the form.'}]
+
+Original Question:
+Who can report an atrocity case?
+
+Rewritten Question:
+What information is required to report an atrocity?
+
+Retrieval time: 0.40 seconds
+LLM generation time: 10.03 seconds
+
+ANSWER:
+To report an atrocity, you need to fill out the Atrocity Reporting form. Here are the steps:
+
+1. Name of the Reporter
+2. Mobile of the Reporter
+3. Email of the Reporter
+4. Place of Atrocity
+5. Any Printed News
+6. Victims Name
+7. Victims Mobile Number
+8. Details of the Atrocity
+
+Please ensure you have all the necessary information before proceeding to fill out the form.
+
+SOURCES:
+AtrocitiesReporting.aspx.txt, TermsAndCondition.aspx.txt, RPSC2025.txt, UPSC2025.txt
+
+TIME: 11.66 sec
+
+
+====================================================================================================
+SECTION : WEBSITE
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 64
+----------------------------------------------------------------------------------------------------
+What are the Terms and Conditions?
+
+Conversation History
+[]
+
+Original Question:
+What are the Terms and Conditions?
+
+Rewritten Question:
+What are the Terms and Conditions?
+
+Retrieval time: 0.79 seconds
+LLM generation time: 11.96 seconds
+
+ANSWER:
+For Event Activities, your participation is at your own risk and you assume full responsibility for your choice to use and/or apply the information or instruction you receive. You also assume any and all risk of injury, illness, damage, loss, or expense that might result.
+
+Donation terms state that by accessing and using this website to make donations or payments, you agree to the Terms & Conditions set forth. These terms govern your use of our online donation/payment services. Donations made to Ekta Navnirman Trust may be eligible for tax benefits under Section 80G of the Income Tax Act, 1961 (if applicable).
+
+For Short Message Service (SMS), when you opt-in using a short code by texting REG, we will send you an SMS text message to confirm your RIP Faculty Registration. By sending a text message for participation in the text messaging program or by using our text program at any time, you are agreeing to the Terms and Conditions set forth. These Terms and Conditions may change from time to time.
+
+Additionally, IDisclaimer of Warranties states that Ekta Navnirman Trust and its officers, agents, employees, partners, contractors, consultants, licensors, and suppliers expressly disclaim all warranties of any kind, whether express or implied, including, but not limited to the implied warranties of merchantability, fitness for a particular purpose and non-infringement.
+
+SOURCES:
+TermsAndCondition.aspx.txt, Insurance.aspx.txt
+
+TIME: 12.76 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 65
+----------------------------------------------------------------------------------------------------
+How do I log into the website?
+
+Conversation History
+[{'role': 'user', 'content': 'What are the Terms and Conditions?'}, {'role': 'assistant', 'content': 'For Event Activities, your participation is at your own risk and you assume full responsibility for your choice to use and/or apply the information or instruction you receive. You also assume any and all risk of injury, illness, damage, loss, or expense that might result.\n\nDonation terms state that by accessing and using this website to make donations or payments, you agree to the Terms & Conditions set forth. These terms govern your use of our online donation/payment services. Donations made to Ekta Navnirman Trust may be eligible for tax benefits under Section 80G of the Income Tax Act, 1961 (if applicable).\n\nFor Short Message Service (SMS), when you opt-in using a short code by texting REG, we will send you an SMS text message to confirm your RIP Faculty Registration. By sending a text message for participation in the text messaging program or by using our text program at any time, you are agreeing to the Terms and Conditions set forth. These Terms and Conditions may change from time to time.\n\nAdditionally, IDisclaimer of Warranties states that Ekta Navnirman Trust and its officers, agents, employees, partners, contractors, consultants, licensors, and suppliers expressly disclaim all warranties of any kind, whether express or implied, including, but not limited to the implied warranties of merchantability, fitness for a particular purpose and non-infringement.'}]
+
+Original Question:
+How do I log into the website?
+
+Rewritten Question:
+How do I log in to the website?
+
+Retrieval time: 0.52 seconds
+LLM generation time: 3.41 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+TermsAndCondition.aspx.txt, MIPTeam.aspx_RPSC.txt, Donation.txt
+
+TIME: 4.69 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 66
+----------------------------------------------------------------------------------------------------
+I forgot my password.
+
+Conversation History
+[{'role': 'user', 'content': 'What are the Terms and Conditions?'}, {'role': 'assistant', 'content': 'For Event Activities, your participation is at your own risk and you assume full responsibility for your choice to use and/or apply the information or instruction you receive. You also assume any and all risk of injury, illness, damage, loss, or expense that might result.\n\nDonation terms state that by accessing and using this website to make donations or payments, you agree to the Terms & Conditions set forth. These terms govern your use of our online donation/payment services. Donations made to Ekta Navnirman Trust may be eligible for tax benefits under Section 80G of the Income Tax Act, 1961 (if applicable).\n\nFor Short Message Service (SMS), when you opt-in using a short code by texting REG, we will send you an SMS text message to confirm your RIP Faculty Registration. By sending a text message for participation in the text messaging program or by using our text program at any time, you are agreeing to the Terms and Conditions set forth. These Terms and Conditions may change from time to time.\n\nAdditionally, IDisclaimer of Warranties states that Ekta Navnirman Trust and its officers, agents, employees, partners, contractors, consultants, licensors, and suppliers expressly disclaim all warranties of any kind, whether express or implied, including, but not limited to the implied warranties of merchantability, fitness for a particular purpose and non-infringement.'}, {'role': 'user', 'content': 'How do I log into the website?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}]
+
+Original Question:
+I forgot my password.
+
+Rewritten Question:
+How do I reset my password if I have forgotten it?
+
+Retrieval time: 0.21 seconds
+LLM generation time: 5.15 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+TermsAndCondition.aspx.txt, Contact.txt, Girl%20Schemes.txt
+
+TIME: 6.09 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 67
+----------------------------------------------------------------------------------------------------
+Who developed this website?
+
+Conversation History
+[{'role': 'user', 'content': 'What are the Terms and Conditions?'}, {'role': 'assistant', 'content': 'For Event Activities, your participation is at your own risk and you assume full responsibility for your choice to use and/or apply the information or instruction you receive. You also assume any and all risk of injury, illness, damage, loss, or expense that might result.\n\nDonation terms state that by accessing and using this website to make donations or payments, you agree to the Terms & Conditions set forth. These terms govern your use of our online donation/payment services. Donations made to Ekta Navnirman Trust may be eligible for tax benefits under Section 80G of the Income Tax Act, 1961 (if applicable).\n\nFor Short Message Service (SMS), when you opt-in using a short code by texting REG, we will send you an SMS text message to confirm your RIP Faculty Registration. By sending a text message for participation in the text messaging program or by using our text program at any time, you are agreeing to the Terms and Conditions set forth. These Terms and Conditions may change from time to time.\n\nAdditionally, IDisclaimer of Warranties states that Ekta Navnirman Trust and its officers, agents, employees, partners, contractors, consultants, licensors, and suppliers expressly disclaim all warranties of any kind, whether express or implied, including, but not limited to the implied warranties of merchantability, fitness for a particular purpose and non-infringement.'}, {'role': 'user', 'content': 'How do I log into the website?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}, {'role': 'user', 'content': 'I forgot my password.'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}]
+
+Original Question:
+Who developed this website?
+
+Rewritten Question:
+How can I access or reset my account on this website?
+
+Retrieval time: 0.31 seconds
+LLM generation time: 3.41 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+Donation.txt, TermsAndCondition.aspx.txt
+
+TIME: 4.52 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 68
+----------------------------------------------------------------------------------------------------
+What is the registered address of Ekta Trust?
+
+Conversation History
+[{'role': 'user', 'content': 'How do I log into the website?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}, {'role': 'user', 'content': 'I forgot my password.'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}, {'role': 'user', 'content': 'Who developed this website?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}]
+
+Original Question:
+What is the registered address of Ekta Trust?
+
+Rewritten Question:
+Where is the registered address of Ekta Trust located?
+
+Retrieval time: 0.19 seconds
+LLM generation time: 0.76 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+TermsAndCondition.aspx.txt, Donation.txt, EktaCreativeCompetition2025.aspx.txt
+
+TIME: 1.73 sec
+
+
+====================================================================================================
+SECTION : NEWS
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 69
+----------------------------------------------------------------------------------------------------
+What are the latest news updates?
+
+Conversation History
+[]
+
+Original Question:
+What are the latest news updates?
+
+Rewritten Question:
+What are the latest news updates?
+
+Retrieval time: 0.07 seconds
+LLM generation time: 5.33 seconds
+
+ANSWER:
+Latest News:
+Thanks for participating in 7th Run for Equality on 14.04.2026 in Jaipur.
+Ekta has created Library infrastructures at 13 places(self study centres) viz. Dhodsar Jaipur, Jhalana AWS Jaipur, Manoharpur, Alwar Female Hostel, Alwar Garibanath Hostel, Nagaur, Virat Nagar, Dholpur, Manpura Machedi, Pratap Nagar Jaipur, Mahua Dausa, Sirsi Road Jaipur, Bhadwasiya Jodhpur.
+Ekta MIP Rajasthan congratulates to all the selected candidates who appeared in FREE IAS/RAS MOCK INTERVIEW PROGRAME.
+
+SOURCES:
+News.txt, home.txt, AtrocitiesReporting.aspx.txt, BibData.aspx.txt, RunRoute.aspx.txt
+
+TIME: 5.40 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 70
+----------------------------------------------------------------------------------------------------
+Has Ekta Trust built any libraries recently?
+
+Conversation History
+[{'role': 'user', 'content': 'What are the latest news updates?'}, {'role': 'assistant', 'content': 'Latest News:\nThanks for participating in 7th Run for Equality on 14.04.2026 in Jaipur.\nEkta has created Library infrastructures at 13 places(self study centres) viz. Dhodsar Jaipur, Jhalana AWS Jaipur, Manoharpur, Alwar Female Hostel, Alwar Garibanath Hostel, Nagaur, Virat Nagar, Dholpur, Manpura Machedi, Pratap Nagar Jaipur, Mahua Dausa, Sirsi Road Jaipur, Bhadwasiya Jodhpur.\nEkta MIP Rajasthan congratulates to all the selected candidates who appeared in FREE IAS/RAS MOCK INTERVIEW PROGRAME.'}]
+
+Original Question:
+Has Ekta Trust built any libraries recently?
+
+Rewritten Question:
+Has Ekta Trust built any new libraries recently?
+
+Retrieval time: 0.32 seconds
+LLM generation time: 8.75 seconds
+
+ANSWER:
+Yes, Ekta Navnirman Trust has created Library infrastructures at 13 places including Dhodsar Jaipur, Jhalana AWS Jaipur, Manoharpur, Alwar Female Hostel, Alwar Garibanath Hostel, Nagaur, Virat Nagar, Dholpur, Manpura Machedi, Pratap Nagar Jaipur, Mahua Dausa, Sirsi Road Jaipur, and Bhadwasiya Jodhpur.
+
+SOURCES:
+EktaCreativeCompetition2025.aspx.txt, TermsAndCondition.aspx.txt
+
+TIME: 10.25 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 71
+----------------------------------------------------------------------------------------------------
+Are there any recent press releases?
+
+Conversation History
+[{'role': 'user', 'content': 'What are the latest news updates?'}, {'role': 'assistant', 'content': 'Latest News:\nThanks for participating in 7th Run for Equality on 14.04.2026 in Jaipur.\nEkta has created Library infrastructures at 13 places(self study centres) viz. Dhodsar Jaipur, Jhalana AWS Jaipur, Manoharpur, Alwar Female Hostel, Alwar Garibanath Hostel, Nagaur, Virat Nagar, Dholpur, Manpura Machedi, Pratap Nagar Jaipur, Mahua Dausa, Sirsi Road Jaipur, Bhadwasiya Jodhpur.\nEkta MIP Rajasthan congratulates to all the selected candidates who appeared in FREE IAS/RAS MOCK INTERVIEW PROGRAME.'}, {'role': 'user', 'content': 'Has Ekta Trust built any libraries recently?'}, {'role': 'assistant', 'content': 'Yes, Ekta Navnirman Trust has created Library infrastructures at 13 places including Dhodsar Jaipur, Jhalana AWS Jaipur, Manoharpur, Alwar Female Hostel, Alwar Garibanath Hostel, Nagaur, Virat Nagar, Dholpur, Manpura Machedi, Pratap Nagar Jaipur, Mahua Dausa, Sirsi Road Jaipur, and Bhadwasiya Jodhpur.'}]
+
+Original Question:
+Are there any recent press releases?
+
+Rewritten Question:
+What are the recent press releases from Ekta Trust?
+
+Retrieval time: 0.42 seconds
+LLM generation time: 6.58 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+EktaCreativeCompetition2025.aspx.txt, TermsAndCondition.aspx.txt, EktaSapath.aspx.txt
+
+TIME: 8.08 sec
+
+
+====================================================================================================
+SECTION : OUT OF SCOPE
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 72
+----------------------------------------------------------------------------------------------------
+Who is the Prime Minister of India?
+
+Conversation History
+[]
+
+Original Question:
+Who is the Prime Minister of India?
+
+Rewritten Question:
+Who is the Prime Minister of India?
+
+Retrieval time: 0.63 seconds
+LLM generation time: 1.11 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+Loans.aspx.txt, Education.aspx.txt, Insurance.aspx.txt
+
+TIME: 1.75 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 73
+----------------------------------------------------------------------------------------------------
+What is today's weather?
+
+Conversation History
+[{'role': 'user', 'content': 'Who is the Prime Minister of India?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}]
+
+Original Question:
+What is today's weather?
+
+Rewritten Question:
+What is the current weather like today?
+
+Retrieval time: 0.38 seconds
+LLM generation time: 1.16 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+Insurance.aspx.txt, EventPrize.txt
+
+TIME: 2.13 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 74
+----------------------------------------------------------------------------------------------------
+What is the price of an iPhone?
+
+Conversation History
+[{'role': 'user', 'content': 'Who is the Prime Minister of India?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}, {'role': 'user', 'content': "What is today's weather?"}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}]
+
+Original Question:
+What is the price of an iPhone?
+
+Rewritten Question:
+What is the current price of an iPhone?
+
+Retrieval time: 0.09 seconds
+LLM generation time: 0.87 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+Insurance.aspx.txt, Girl%20Schemes.txt, RunCertificate.txt, TermsAndCondition.aspx.txt
+
+TIME: 1.56 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 75
+----------------------------------------------------------------------------------------------------
+Who won the FIFA World Cup?
+
+Conversation History
+[{'role': 'user', 'content': 'Who is the Prime Minister of India?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}, {'role': 'user', 'content': "What is today's weather?"}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}, {'role': 'user', 'content': 'What is the price of an iPhone?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}]
+
+Original Question:
+Who won the FIFA World Cup?
+
+Rewritten Question:
+Who won the most recent FIFA World Cup?
+
+Retrieval time: 0.20 seconds
+LLM generation time: 1.15 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+Gallery.txt, UPSC2025.txt, RPSC2025.txt, RunForEquality2026.txt, Winners.aspx.txt
+
+TIME: 1.94 sec
+
+
+----------------------------------------------------------------------------------------------------
+QUESTION 76
+----------------------------------------------------------------------------------------------------
+Tell me about Virat Kohli.
+
+Conversation History
+[{'role': 'user', 'content': "What is today's weather?"}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}, {'role': 'user', 'content': 'What is the price of an iPhone?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}, {'role': 'user', 'content': 'Who won the FIFA World Cup?'}, {'role': 'assistant', 'content': 'I could not find this information in the available Ekta Trust data.'}]
+
+Original Question:
+Tell me about Virat Kohli.
+
+Rewritten Question:
+What achievements and statistics does Virat Kohli have?
+
+Retrieval time: 0.22 seconds
+LLM generation time: 1.11 seconds
+
+ANSWER:
+I could not find this information in the available Ekta Trust data.
+
+SOURCES:
+EktaCreativeCompetition.aspx.txt, Education.aspx.txt, Information.aspx.txt, Winners.aspx.txt
+
+TIME: 2.08 sec
+
+
+====================================================================================================
+ALL TESTS COMPLETED
+====================================================================================================
+
+TOTAL TEST TIME : 545.80 seconds

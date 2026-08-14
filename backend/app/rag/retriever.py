@@ -2,6 +2,8 @@ import re
 
 import chromadb
 
+from app.rag.topic_mapping import TOPIC_MAPPING
+
 from app.rag.embeddings import load_embedding_model
 
 
@@ -292,6 +294,40 @@ def calculate_title_bonus(
 
     return title_bonus
 
+def detect_allowed_sources(question: str) -> set[str]:
+    """
+    Detect which source files are most relevant
+    based on keywords in the question.
+    """
+
+    question = question.lower()
+
+    allowed_sources = set()
+
+    for keyword, sources in TOPIC_MAPPING.items():
+
+        if keyword in question:
+
+            allowed_sources.update(sources)
+
+    return allowed_sources
+
+def source_boost(
+    source: str,
+    allowed_sources: set[str]
+) -> float:
+    """
+    Give a small ranking boost to source files
+    that match the detected topic.
+    """
+
+    if not allowed_sources:
+        return 0.0
+
+    if source in allowed_sources:
+        return 0.10
+
+    return 0.0
 
 def retrieve(
     question: str,
@@ -338,6 +374,15 @@ def retrieve(
         question,
         normalize_embeddings=True
     )
+
+    allowed_sources = detect_allowed_sources(question)
+
+    if allowed_sources:
+
+        print("\nMetadata Topic Match")
+
+        for source in sorted(allowed_sources):
+            print("-", source)
 
     # =====================================================
     # STEP 2: SEMANTIC CANDIDATES
@@ -607,6 +652,11 @@ def retrieve(
             )
         )
 
+        topic_bonus = source_boost(
+            candidate["source"],
+            allowed_sources
+        )
+
         # -------------------------------------------------
         # FINAL HYBRID SCORE
         #
@@ -619,44 +669,38 @@ def retrieve(
         # -------------------------------------------------
 
         hybrid_score = (
-            0.60 * semantic_score
+            0.55 * semantic_score
             +
-            0.40
+            0.35
             * normalized_keyword_score
             +
             (title_bonus * 0.5)
+            +
+            topic_bonus
         )
 
-        hybrid_results.append(
-            {
-                "document":
-                    candidate["document"],
+        hybrid_results.append({
 
-                "source":
-                    candidate["source"],
+            "document": candidate["document"],
 
-                "chunk_id":
-                    candidate["chunk_id"],
+            "source": candidate["source"],
 
-                "distance":
-                    candidate["distance"],
+            "chunk_id": candidate["chunk_id"],
 
-                "semantic_score":
-                    semantic_score,
+            "distance": candidate["distance"],
 
-                "keyword_score":
-                    lexical_score,
+            "semantic_score": semantic_score,
 
-                "normalized_keyword_score":
-                    normalized_keyword_score,
+            "keyword_score": lexical_score,
 
-                "title_bonus":
-                    title_bonus,
+            "normalized_keyword_score": normalized_keyword_score,
 
-                "hybrid_score":
-                    hybrid_score
-            }
-        )
+            "title_bonus": title_bonus,
+
+            "topic_bonus": topic_bonus,
+
+            "hybrid_score": hybrid_score
+        })
 
     # =====================================================
     # STEP 7: FINAL SORT
@@ -759,7 +803,13 @@ if __name__ == "__main__":
                 4
             )
         )
-
+        print(
+            "TOPIC BONUS:",
+            round(
+                result["topic_bonus"],
+                4
+            )
+        )
         print(
             "HYBRID SCORE:",
             round(

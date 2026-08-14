@@ -15,14 +15,15 @@ router = APIRouter()
     "/chat",
     response_model=ChatResponse
 )
+
 def chat(request: ChatRequest):
 
     result = generate_answer(
-    request.question
+        session_id=request.session_id,
+        question=request.question
     )
 
     return ChatResponse(
-        answer=result["answer"],
-        sources=result["sources"],
-        response_time=result["response_time"]
+    answer=result["answer"],
+    response_time=result["response_time"]
     )
